@@ -784,3 +784,217 @@ Alternately, you can install this by running `pip install pycaret[models]`
                            validation_fraction=0.1, verbose=0,
                            warm_start=False)
 2023-03-09 18:32:11,313:INFO:tune_model() successfully completed......................................
+2023-03-09 18:40:37,030:INFO:Initializing plot_model()
+2023-03-09 18:40:37,030:INFO:plot_model(plot=auc, fold=None, use_train_data=False, verbose=True, display=None, display_format=None, estimator=GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.0005, loss='log_loss', max_depth=11,
+                           max_features='log2', max_leaf_nodes=None,
+                           min_impurity_decrease=0.3, min_samples_leaf=1,
+                           min_samples_split=9, min_weight_fraction_leaf=0.0,
+                           n_estimators=270, n_iter_no_change=None,
+                           random_state=1308, subsample=0.5, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False), feature_name=None, fit_kwargs=None, groups=None, label=False, plot_kwargs=None, save=False, scale=1, self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000242C01798D0>, system=True)
+2023-03-09 18:40:37,030:INFO:Checking exceptions
+2023-03-09 18:40:37,039:INFO:Preloading libraries
+2023-03-09 18:40:37,068:INFO:Copying training dataset
+2023-03-09 18:40:37,068:INFO:Plot type: auc
+2023-03-09 18:40:37,092:INFO:Fitting Model
+2023-03-09 18:40:37,098:WARNING:c:\Users\santi\code\uni_env\lib\site-packages\sklearn\base.py:420: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2023-03-09 18:40:37,098:INFO:Scoring test/hold-out set
+2023-03-09 18:40:37,468:INFO:Visual Rendered Successfully
+2023-03-09 18:40:37,551:INFO:plot_model() successfully completed......................................
+2023-03-09 18:40:38,969:INFO:Initializing plot_model()
+2023-03-09 18:40:38,969:INFO:plot_model(plot=pr, fold=None, use_train_data=False, verbose=True, display=None, display_format=None, estimator=GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.0005, loss='log_loss', max_depth=11,
+                           max_features='log2', max_leaf_nodes=None,
+                           min_impurity_decrease=0.3, min_samples_leaf=1,
+                           min_samples_split=9, min_weight_fraction_leaf=0.0,
+                           n_estimators=270, n_iter_no_change=None,
+                           random_state=1308, subsample=0.5, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False), feature_name=None, fit_kwargs=None, groups=None, label=False, plot_kwargs=None, save=False, scale=1, self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000242C01798D0>, system=True)
+2023-03-09 18:40:38,969:INFO:Checking exceptions
+2023-03-09 18:40:38,978:INFO:Preloading libraries
+2023-03-09 18:40:39,005:INFO:Copying training dataset
+2023-03-09 18:40:39,005:INFO:Plot type: pr
+2023-03-09 18:40:39,026:INFO:Fitting Model
+2023-03-09 18:40:39,026:WARNING:c:\Users\santi\code\uni_env\lib\site-packages\sklearn\base.py:420: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2023-03-09 18:40:39,028:INFO:Scoring test/hold-out set
+2023-03-09 18:40:39,330:INFO:Visual Rendered Successfully
+2023-03-09 18:40:39,412:INFO:plot_model() successfully completed......................................
+2023-03-09 18:40:39,996:INFO:Initializing plot_model()
+2023-03-09 18:40:39,996:INFO:plot_model(plot=threshold, fold=None, use_train_data=False, verbose=True, display=None, display_format=None, estimator=GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.0005, loss='log_loss', max_depth=11,
+                           max_features='log2', max_leaf_nodes=None,
+                           min_impurity_decrease=0.3, min_samples_leaf=1,
+                           min_samples_split=9, min_weight_fraction_leaf=0.0,
+                           n_estimators=270, n_iter_no_change=None,
+                           random_state=1308, subsample=0.5, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False), feature_name=None, fit_kwargs=None, groups=None, label=False, plot_kwargs=None, save=False, scale=1, self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000242C01798D0>, system=True)
+2023-03-09 18:40:39,997:INFO:Checking exceptions
+2023-03-09 18:40:40,006:INFO:Preloading libraries
+2023-03-09 18:40:40,030:INFO:Copying training dataset
+2023-03-09 18:40:40,031:INFO:Plot type: threshold
+2023-03-09 18:40:40,055:INFO:Fitting Model
+2023-03-09 18:47:20,537:WARNING:c:\Users\santi\code\uni_env\lib\site-packages\sklearn\base.py:420: UserWarning: X does not have valid feature names, but GradientBoostingClassifier was fitted with feature names
+  warnings.warn(
+
+2023-03-09 18:47:20,556:INFO:Scoring test/hold-out set
+2023-03-09 18:47:20,947:INFO:Visual Rendered Successfully
+2023-03-09 18:47:21,061:INFO:plot_model() successfully completed......................................
+2023-03-09 18:49:30,973:INFO:Initializing finalize_model()
+2023-03-09 18:49:30,973:INFO:finalize_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000242C01798D0>, estimator=GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.0005, loss='log_loss', max_depth=11,
+                           max_features='log2', max_leaf_nodes=None,
+                           min_impurity_decrease=0.3, min_samples_leaf=1,
+                           min_samples_split=9, min_weight_fraction_leaf=0.0,
+                           n_estimators=270, n_iter_no_change=None,
+                           random_state=1308, subsample=0.5, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False), fit_kwargs=None, groups=None, model_only=False, experiment_custom_tags=None)
+2023-03-09 18:49:30,974:INFO:Finalizing GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.0005, loss='log_loss', max_depth=11,
+                           max_features='log2', max_leaf_nodes=None,
+                           min_impurity_decrease=0.3, min_samples_leaf=1,
+                           min_samples_split=9, min_weight_fraction_leaf=0.0,
+                           n_estimators=270, n_iter_no_change=None,
+                           random_state=1308, subsample=0.5, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False)
+2023-03-09 18:49:30,978:INFO:Initializing create_model()
+2023-03-09 18:49:30,978:INFO:create_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000242C01798D0>, estimator=GradientBoostingClassifier(ccp_alpha=0.0, criterion='friedman_mse', init=None,
+                           learning_rate=0.0005, loss='log_loss', max_depth=11,
+                           max_features='log2', max_leaf_nodes=None,
+                           min_impurity_decrease=0.3, min_samples_leaf=1,
+                           min_samples_split=9, min_weight_fraction_leaf=0.0,
+                           n_estimators=270, n_iter_no_change=None,
+                           random_state=1308, subsample=0.5, tol=0.0001,
+                           validation_fraction=0.1, verbose=0,
+                           warm_start=False), fold=None, round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, probability_threshold=None, experiment_custom_tags=None, verbose=False, system=False, add_to_model_list=False, metrics=None, display=None, model_only=False, return_train_score=False, kwargs={})
+2023-03-09 18:49:30,978:INFO:Checking exceptions
+2023-03-09 18:49:30,980:INFO:Importing libraries
+2023-03-09 18:49:30,980:INFO:Copying training dataset
+2023-03-09 18:49:30,980:INFO:Defining folds
+2023-03-09 18:49:30,980:INFO:Declaring metric variables
+2023-03-09 18:49:30,981:INFO:Importing untrained model
+2023-03-09 18:49:30,981:INFO:Declaring custom model
+2023-03-09 18:49:30,981:INFO:Gradient Boosting Classifier Imported successfully
+2023-03-09 18:49:30,982:INFO:Cross validation set to False
+2023-03-09 18:49:30,982:INFO:Fitting Model
+2023-03-09 18:49:38,106:INFO:Pipeline(memory=FastMemory(location=C:\Users\santi\AppData\Local\Temp\joblib),
+         steps=[('placeholder', None),
+                ('actual_estimator',
+                 GradientBoostingClassifier(ccp_alpha=0.0,
+                                            criterion='friedman_mse', init=None,
+                                            learning_rate=0.0005,
+                                            loss='log_loss', max_depth=11,
+                                            max_features='log2',
+                                            max_leaf_nodes=None,
+                                            min_impurity_decrease=0.3,
+                                            min_samples_leaf=1,
+                                            min_samples_split=9,
+                                            min_weight_fraction_leaf=0.0,
+                                            n_estimators=270,
+                                            n_iter_no_change=None,
+                                            random_state=1308, subsample=0.5,
+                                            tol=0.0001, validation_fraction=0.1,
+                                            verbose=0, warm_start=False))],
+         verbose=False)
+2023-03-09 18:49:38,106:INFO:create_model() successfully completed......................................
+2023-03-09 18:49:38,190:INFO:_master_model_container: 17
+2023-03-09 18:49:38,190:INFO:_display_container: 4
+2023-03-09 18:49:38,192:INFO:Pipeline(memory=FastMemory(location=C:\Users\santi\AppData\Local\Temp\joblib),
+         steps=[('placeholder', None),
+                ('actual_estimator',
+                 GradientBoostingClassifier(ccp_alpha=0.0,
+                                            criterion='friedman_mse', init=None,
+                                            learning_rate=0.0005,
+                                            loss='log_loss', max_depth=11,
+                                            max_features='log2',
+                                            max_leaf_nodes=None,
+                                            min_impurity_decrease=0.3,
+                                            min_samples_leaf=1,
+                                            min_samples_split=9,
+                                            min_weight_fraction_leaf=0.0,
+                                            n_estimators=270,
+                                            n_iter_no_change=None,
+                                            random_state=1308, subsample=0.5,
+                                            tol=0.0001, validation_fraction=0.1,
+                                            verbose=0, warm_start=False))],
+         verbose=False)
+2023-03-09 18:49:38,192:INFO:finalize_model() successfully completed......................................
+2023-03-09 18:49:38,325:INFO:Initializing save_model()
+2023-03-09 18:49:38,325:INFO:save_model(model=Pipeline(memory=FastMemory(location=C:\Users\santi\AppData\Local\Temp\joblib),
+         steps=[('placeholder', None),
+                ('actual_estimator',
+                 GradientBoostingClassifier(ccp_alpha=0.0,
+                                            criterion='friedman_mse', init=None,
+                                            learning_rate=0.0005,
+                                            loss='log_loss', max_depth=11,
+                                            max_features='log2',
+                                            max_leaf_nodes=None,
+                                            min_impurity_decrease=0.3,
+                                            min_samples_leaf=1,
+                                            min_samples_split=9,
+                                            min_weight_fraction_leaf=0.0,
+                                            n_estimators=270,
+                                            n_iter_no_change=None,
+                                            random_state=1308, subsample=0.5,
+                                            tol=0.0001, validation_fraction=0.1,
+                                            verbose=0, warm_start=False))],
+         verbose=False), model_name=my_credit_model, prep_pipe_=Pipeline(memory=FastMemory(location=C:\Users\santi\AppData\Local\Temp\joblib),
+         steps=[('placeholder', None)], verbose=False), verbose=True, use_case=MLUsecase.CLASSIFICATION, kwargs={})
+2023-03-09 18:49:38,325:INFO:Adding model into prep_pipe
+2023-03-09 18:49:38,352:WARNING:Only Model saved as it was a pipeline.
+2023-03-09 18:49:38,408:INFO:my_credit_model.pkl saved in current working directory
+2023-03-09 18:49:38,410:INFO:Pipeline(memory=FastMemory(location=C:\Users\santi\AppData\Local\Temp\joblib),
+         steps=[('placeholder', None),
+                ('actual_estimator',
+                 GradientBoostingClassifier(ccp_alpha=0.0,
+                                            criterion='friedman_mse', init=None,
+                                            learning_rate=0.0005,
+                                            loss='log_loss', max_depth=11,
+                                            max_features='log2',
+                                            max_leaf_nodes=None,
+                                            min_impurity_decrease=0.3,
+                                            min_samples_leaf=1,
+                                            min_samples_split=9,
+                                            min_weight_fraction_leaf=0.0,
+                                            n_estimators=270,
+                                            n_iter_no_change=None,
+                                            random_state=1308, subsample=0.5,
+                                            tol=0.0001, validation_fraction=0.1,
+                                            verbose=0, warm_start=False))],
+         verbose=False)
+2023-03-09 18:49:38,410:INFO:save_model() successfully completed......................................
+2023-03-09 18:49:38,576:INFO:Initializing load_model()
+2023-03-09 18:49:38,576:INFO:load_model(model_name=my_credit_model, platform=None, authentication=None, verbose=True)
+2023-03-09 18:49:44,507:INFO:Initializing predict_model()
+2023-03-09 18:49:44,507:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000242C01798D0>, estimator=Pipeline(memory=FastMemory(location=C:\Users\santi\AppData\Local\Temp\joblib),
+         steps=[('placeholder', None),
+                ('actual_estimator',
+                 GradientBoostingClassifier(ccp_alpha=0.0,
+                                            criterion='friedman_mse', init=None,
+                                            learning_rate=0.0005,
+                                            loss='log_loss', max_depth=11,
+                                            max_features='log2',
+                                            max_leaf_nodes=None,
+                                            min_impurity_decrease=0.3,
+                                            min_samples_leaf=1,
+                                            min_samples_split=9,
+                                            min_weight_fraction_leaf=0.0,
+                                            n_estimators=270,
+                                            n_iter_no_change=None,
+                                            random_state=1308, subsample=0.5,
+                                            tol=0.0001, validation_fraction=0.1,
+                                            verbose=0, warm_start=False))],
+         verbose=False), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x00000242BF63F640>)
+2023-03-09 18:49:44,507:INFO:Checking exceptions
+2023-03-09 18:49:44,507:INFO:Preloading libraries
+2023-03-09 18:49:44,509:INFO:Set up data.
+2023-03-09 18:49:44,519:INFO:Set up index.
