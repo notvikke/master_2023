@@ -42,26 +42,39 @@ def read_and_preprocess_data():
 
 data, codes = read_and_preprocess_data()
 
-data.sort_values(by='date', inplace = True)
-fig = px.line(data[:50000], x='date', y="mean_travel_time")
+SOURCE = st.sidebar.selectbox("This is a selector for SOURCE", (data["src_neigh_name"].unique()))
+DESTINATION = st.sidebar.selectbox("This is a selector for DESTINATION", (data["dst_neigh_name"].unique()))
 
-fig2 = px.bar(data[:50000], x='day_period', y="mean_travel_time")
-fig3 = px.bar(data[:50000], x='day_of_week', y="mean_travel_time")
+data.sort_values(by='date', inplace = True)
+fig = px.line(
+    data[(data["src_neigh_name"]==SOURCE)&(data["dst_neigh_name"]==DESTINATION)],
+    x='date', 
+    y="mean_travel_time",
+    text="day_period",
+    error_y="standard_deviation_travel_time",
+    template="none")
+
+fig.update_traces(
+    mode="lines+markers",
+    error_y_color="#808080"
+)
+
+fig2 = px.bar(data[(data["src_neigh_name"]==SOURCE)&(data["dst_neigh_name"]==DESTINATION)], x='day_period', y="mean_travel_time")
+fig3 = px.bar(data[(data["src_neigh_name"]==SOURCE)&(data["dst_neigh_name"]==DESTINATION)], x='day_of_week', y="mean_travel_time")
 
 
 st.title("Session 14 Homework: Streamlit")
-st.header("Travel by Time and Day")
+st.header("Travel Time from {} to {}".format(SOURCE, DESTINATION))
 st.plotly_chart(fig)
 st.text("A view at the average travel time every day and hour of the year")
 
-st.header("Travel by Time Period")
+st.header("Travel time by time period from {} to {}".format(SOURCE, DESTINATION))
 st.plotly_chart(fig2)
 st.text("A view at the average travel time every time period")
 
-st.header("Travel by day of the week")
+st.header("Travel time by day of the week from {} to {}".format(SOURCE, DESTINATION))
 st.plotly_chart(fig3)
 st.text("A view at the average travel time every day of the week")
 
 
-st.sidebar.selectbox("This is a selector for SOURCE", (data["src_neigh_name"]))
-st.sidebar.selectbox("This is a selector for DESTINATION", (data["dst_neigh_name"]))
+
