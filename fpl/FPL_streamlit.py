@@ -153,6 +153,7 @@ def points():
 
     # region Midfielder Rankings
     st.subheader("Midfielders")
+    st.markdown("CDMs are the cucks of Fantasy, might as well put a disabled person instead")
     data = pd.read_csv('findings/points/mid_ranking.csv')
     data_gw = pd.read_csv('findings/points/gw_mid_ranking.csv')
 
@@ -201,7 +202,8 @@ def points():
         st.write(data_gw)
     # endregion
 
-    st.info("Some highs, some lows... but all our own choices, for the most part")
+    st.info("Haaland was 221 of those points btw")
+    st.info("Anyways, some highs, some lows... but all our own choices, for the most part")
     st.info("Now let's look at the ones we didn't choose, let's look...")
     st.header("Outside the starting 11")
 
@@ -224,7 +226,7 @@ def points():
 
     # region Optimised Bench
     st.subheader("Optimised Bench")
-    st.markdown("Ranking of missed points in the bench")
+    st.markdown("Basically a 'What if...?' in which we look at how many points were left on the bench everyone except Yahya could have capitalised on")
     data = pd.read_csv('findings/points/bench_best.csv')
 
     merged_df = pd.merge(data, main_ranking, on='manager')
@@ -315,7 +317,7 @@ def points():
 
     # region Tottenham
     st.subheader("Tottenham Award")
-    st.markdown("Longest streak without getting a podium")
+    st.markdown("A tribute to the chickens, a ranking of the longest streaks without winning a podium in the league")
     data = pd.read_csv('findings/points/tottenham.csv')
 
     tab1, tab2 = st.tabs(["Top 3", "Table"])
@@ -332,7 +334,7 @@ def points():
 
     # region Last Place
     st.subheader("Last Places")
-    st.markdown("Ranking of Last Place gameweek Finishes")
+    st.markdown("Pretty self explanatory... a ranking of Last Place gameweek Finishes")
     data = pd.read_csv('findings/points/last_df.csv')
 
     tab1, tab2 = st.tabs(["Top 3", "Table"])
