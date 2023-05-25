@@ -447,6 +447,10 @@ def players():
     st.subheader("Players Page")
     st.markdown("Some facts about players in the AKOYA league")
 
+    st.info("Choosing who to have in your team was hard, unless you just chose Arsenal players and called it a day")
+    st.info("Let's first look at who has stuck with you through thick and thin, and ask yourself why Ali was such a lucky bitch for getting Haaland as his first pick. Let's look at...")
+    st.header("Loyalty")
+
 def stats():
     st.subheader("Genneral Statistics Page")
     st.markdown("Summary of general statistics relating to the AKOYA league")
