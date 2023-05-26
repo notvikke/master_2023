@@ -11,6 +11,13 @@ def display_podium(title,df,column=1,value="pts"):
     col1, col2, col3, col4, col5 = st.columns(5)
 
     with col1:
+        st.write("")
+        st.write("")
+        st.image("pictures/{}.png".format(df.loc[1, "manager"]))
+        st.subheader("🥈") 
+        st.text("{}: {} {}".format(df.loc[1, "manager"], round(df.iloc[1, column]),value))
+
+    with col2:
         st.image("pictures/{}.png".format(df.loc[0, "manager"])) 
         st.subheader("🥇")
         st.text("{}: {} {}".format(
@@ -18,16 +25,7 @@ def display_podium(title,df,column=1,value="pts"):
             round(df.iloc[0, column]),
             value))
 
-    with col2:
-        st.write("")
-        st.write("")
-        st.image("pictures/{}.png".format(df.loc[1, "manager"]))
-        st.subheader("🥈") 
-        st.text("{}: {} {}".format(df.loc[1, "manager"], round(df.iloc[1, column]),value))
-
     with col3:
-        st.write("")
-        st.write("")
         st.write("")
         st.write("")
         st.image("pictures/{}.png".format(df.loc[2, "manager"]))
@@ -42,14 +40,15 @@ def display_podium(title,df,column=1,value="pts"):
         st.write("")
         st.write("")
         st.write("")
-        st.write("")
-        st.write("")
         st.image("pictures/{}.png".format(df.loc[len(df)-1, "manager"]))
         st.subheader("💩",)
         st.text("{}: {} {}".format(df.loc[len(df)-1, "manager"], round(df.iloc[len(df)-1, column]),value))
 
-def show_pics(data,num, points=False):
+def print_pic(data, num):
     st.image("https://resources.premierleague.com/premierleague/photos/players/110x140/p{}.png".format(data.loc[num,"photo"]))
+
+def show_pics(data,num, points=False):
+    print_pic(data,num)
     if data.loc[num,"player_id"]==32:
         st.markdown("{} ✅".format(data.loc[num,"player_name"]))
     else:
@@ -61,6 +60,21 @@ def show_pics(data,num, points=False):
         st.success("{} points total".format(data.loc[num,"points"]))
     elif points=="average":
         st.success("{} points per game".format(round(data.loc[num,"points"]/data.loc[num,"player_id"],2)))
+
+def show_most_teams(data, num, data2):
+    print_pic(data,num)
+    player_name = data.loc[num,"player_name"]
+    st.markdown("{}".format(player_name))
+    st.markdown("in {} teams".format(data.loc[num,"0"]))    
+        
+    if player_name in data2["player_name"].values:
+        row = data2[data2["player_name"]==data.loc[num,"player_name"]]
+        st.markdown("{} GWs in your team".format(row["player_id"].values[0]))
+        st.success("{} points total".format(row["points"].values[0]))
+    else:
+        st.markdown(" ")
+        st.markdown(" ")
+        st.warning("Never in your team")
 
 def points():
     # Basic text elements in streamlit
@@ -74,6 +88,16 @@ def points():
     st.success("This is a success")
 
     st.warning("This is a warning")
+
+    st.sidebar.markdown("Page Guide")
+    st.sidebar.markdown("1. [Akoya FPL Award](#akoya-fpl-award)")
+    st.sidebar.markdown("2. [Rankings per Position](#rankings-per-position)")
+    #st.sidebar.markdown("2.1. [Goalkeeper Rankings](#golakeepers)")
+    #st.sidebar.markdown("2.2. [Defender Rankings](#defenders)")
+    #st.sidebar.markdown("2.3. [Midfielder Rankings](#midfielders)")
+    #st.sidebar.markdown("2.4. [Forward Rankings](#forwards)")
+    st.sidebar.markdown("3. [Outside the starting 11](#outside-the-starting-11)")
+    st.sidebar.markdown("4. [Gameweek Winners and Losers](#gameweek-winners-and-losers)")
 
     # region Final Standings
 
@@ -464,11 +488,23 @@ def players():
     st.sidebar.markdown("Choose a manager")
     manager = st.sidebar.selectbox("Choose Manager", ("Ali","Ruslan","Sami","Yahya","Youssef","Santi","Shrey","Dani"))
 
+    st.sidebar.image("pictures/{}.png".format(manager), caption=manager,width=200)
+
+    st.sidebar.markdown("Page Guide")
+    st.sidebar.markdown("1. [Loyalty](#loyalty)")
+    st.sidebar.markdown("2. [UnLoyalty](#unloyalty)")
+    st.sidebar.markdown("3. [Most Played](#most-played)")
+    st.sidebar.markdown("4. [Most Teams](#most-teams)")
+    st.sidebar.markdown("5. [Club Mascot](#club-mascot)")
+    st.sidebar.markdown("6. [Star Players](#star-players)")
+
     st.markdown(" ")
     st.info("Choosing who to have in your team was hard, unless you just chose Arsenal players and called it a day")
     st.info("Let's first look at who has stuck with you through thick and thin, and ask yourself why Ali was such a lucky bitch for getting Haaland as his first pick. Let's look at...")
     st.header("Loyalty")
     st.markdown("The players you've owned the longest")
+
+    real_ranking = pd.read_csv("findings/points/real_ranking.csv")
 
     #region Loyalty
     data = pd.read_csv('findings/players/loyalty.csv')
@@ -500,7 +536,7 @@ def players():
     #region Most Played
     data = pd.read_csv('findings/players/most_played.csv')
     manager_df_full = data[data["manager"]==manager].reset_index(drop=True).sort_values("player_id",ascending=False)
-    manager_df = manager_df_full[:10]
+    manager_df = manager_df_full[:11]
     tab1, tab2 = st.tabs(["Points Total","Points per Game"])
 
     with tab1:
@@ -518,7 +554,8 @@ def players():
                 show_pics(manager_df,i+5,"average")
 
     #endregion
-    
+
+    st.markdown(" ")
     st.info("We've seen the players that have been most in ONE team, now let's look at the players that have been in MOST teams")
 
     st.header("Most Teams")
@@ -531,16 +568,46 @@ def players():
 
     for i in range(4):
         with cols[i]:
-            st.image("https://resources.premierleague.com/premierleague/photos/players/110x140/p{}.png".format(most_teams.loc[i,"photo"]))
-            st.markdown("{}".format(most_teams.loc[i,"player_name"]))
-            st.markdown("in {} teams".format(most_teams.loc[i,"0"]))    
-
-
-            if most_teams.loc[i,"player_name"] in manager_df_full["player_name"]:
-                row = manager_df_full[manager_df_full["player_name"]==most_teams.loc[i,"player_name"]]
-                st.markdown("{} gameweeks in your team".format(row["player_id"]))
-                st.success("{} points total".format(row["player_id"]))
+            show_most_teams(most_teams,i,manager_df_full)
+            show_most_teams(most_teams,i+4,manager_df_full)
     #endregion
+    
+    st.info("Now, the Ruslan award")
+
+    st.header("Club Mascot")
+    st.markdown("A few stats based on how many players from a single club one has fielded")
+
+    #region Club Mascot
+    data = pd.read_csv('findings/players/club_mascot.csv')
+    fielded = data[data["manager"]==manager].sort_values("fielded",ascending=False).reset_index(drop=True)
+    ppg = data[(data["manager"]==manager)&(data["fielded"]>15)].sort_values("ppg",ascending=False).reset_index(drop=True)
+
+    tab1, tab2 = st.tabs(["Most Fielded","Points per Game"])
+    
+    with tab1:
+        tab1_cols = st.columns(3)
+        for i in range(3):
+            with tab1_cols[i]:
+                row = fielded.loc[i]
+                percentage = round(row["points"]/int(real_ranking[real_ranking["manager"]==manager]["points"].values[0]),2)
+                st.image("team_logos/{}.png".format(row["team"]))
+                st.markdown("Fielded {} players {} times".format(row["team"],row["fielded"]))
+                st.markdown("Scored {} total points".format(row["points"]))
+                st.success("{}% of total points".format(percentage*100))
+                
+    with tab2:
+        tab2_cols = st.columns(3)
+        for i in range(3):
+            with tab2_cols[i]:
+                row = ppg.loc[i]
+                percentage = round(row["points"]/int(real_ranking[real_ranking["manager"]==manager]["points"].values[0]),2)
+                st.image("team_logos/{}.png".format(row["team"]))
+                st.markdown("Fielded {} players {} times".format(row["team"],row["fielded"]))
+                st.markdown("Scored {} total points".format(row["ppg"]))
+                st.success("{}% of total points".format(percentage*100))
+    #endregion
+    
+    st.header("Star Players")
 
 
 def stats():

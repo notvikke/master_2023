@@ -271,6 +271,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,5.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,5.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,5.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,5.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,5.0,transfer market,,n/a,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,12.0,1.0,2.0,1.5,6.0,False,54469
 58.0,Stanislas,MID,BOU,5.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,5.0,transfer market,,n/a,1.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.2,0.3,0.0,0.5,1.0,False,81012
@@ -694,6 +695,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,5.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,5.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,211975
 712.0,Perrone,MID,MCI,5.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,5.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,5.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,5.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,5.0,Shrey,12,bench,5.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,18.0,17.2,0.0,0.0,1.7,5.0,False,37915
 426.0,Forster,GK,TOT,5.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,5.0,Yahya,11,fielded,5.0,90.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,6.0,7.3,65.0,7.8,5.0,False,78830
@@ -1042,6 +1046,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,6.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,6.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,6.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,6.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,6.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,11.6,2.1,0.0,1.4,1.0,False,54469
 58.0,Stanislas,MID,BOU,6.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,6.0,transfer market,,n/a,1.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.8,1.2,0.0,0.6,1.0,False,81012
@@ -1465,6 +1470,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,6.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,6.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,211975
 712.0,Perrone,MID,MCI,6.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,6.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,6.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,6.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,6.0,Shrey,12,bench,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,12.0,10.4,0.0,0.0,1.0,2.0,False,37915
 426.0,Forster,GK,TOT,6.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,6.0,Yahya,10,fielded,9.0,77.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,37.0,46.0,32.6,64.0,14.3,9.0,False,78830
@@ -1813,6 +1821,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,7.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,7.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,7.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,7.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,7.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,54469
 58.0,Stanislas,MID,BOU,7.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,7.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -2236,6 +2245,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,7.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,7.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,211975
 712.0,Perrone,MID,MCI,7.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,7.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,7.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,7.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,7.0,Shrey,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,37915
 426.0,Forster,GK,TOT,7.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,7.0,Yahya,10,fielded,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,78830
@@ -2584,6 +2596,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,8.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,8.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,8.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,8.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,8.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,10.0,0.4,0.0,1.0,2.0,False,54469
 58.0,Stanislas,MID,BOU,8.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,8.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -3007,6 +3020,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,8.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,8.0,transfer market,,n/a,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,17.6,1.5,0.0,1.9,6.0,False,211975
 712.0,Perrone,MID,MCI,8.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,8.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,8.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,8.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,8.0,Shrey,1,fielded,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,22.0,36.2,0.0,0.0,3.6,2.0,False,37915
 426.0,Forster,GK,TOT,8.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,8.0,Yahya,10,fielded,10.0,90.0,1.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,38.0,57.8,32.3,57.0,14.7,10.0,True,78830
@@ -3355,6 +3371,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,9.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,9.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,9.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,9.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,9.0,transfer market,,n/a,8.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,30.0,15.6,15.3,0.0,3.1,8.0,False,54469
 58.0,Stanislas,MID,BOU,9.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,9.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -3778,6 +3795,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,9.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,9.0,Ali,3,fielded,1.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,15.0,1.0,18.0,3.4,1.0,False,211975
 712.0,Perrone,MID,MCI,9.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,9.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,9.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,9.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,9.0,Shrey,12,bench,3.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,19.0,37.0,0.0,0.0,3.7,3.0,False,37915
 426.0,Forster,GK,TOT,9.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,9.0,Yahya,10,fielded,6.0,90.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,36.2,1.2,42.0,7.9,6.0,False,78830
@@ -4126,6 +4146,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,10.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,10.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,10.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,10.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,10.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,11.6,1.0,0.0,1.3,2.0,False,54469
 58.0,Stanislas,MID,BOU,10.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,10.0,transfer market,,n/a,1.0,71.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.8,3.7,2.0,0.7,1.0,False,81012
@@ -4549,6 +4570,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,10.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,10.0,Ali,2,fielded,7.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,31.0,16.8,1.6,26.0,4.4,7.0,False,211975
 712.0,Perrone,MID,MCI,10.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,10.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,10.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,10.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,10.0,Shrey,12,bench,10.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,31.0,27.4,0.0,0.0,2.7,10.0,True,37915
 426.0,Forster,GK,TOT,10.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,10.0,Yahya,10,fielded,7.0,89.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,28.0,32.0,14.3,35.0,8.1,7.0,False,78830
@@ -4897,6 +4921,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,11.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,11.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,11.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,11.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,11.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,27.2,0.6,33.0,6.1,1.0,False,54469
 58.0,Stanislas,MID,BOU,11.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,11.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,7.6,0.5,0.0,0.8,1.0,False,81012
@@ -5320,6 +5345,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,11.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,11.0,Ali,2,fielded,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,7.0,4.4,1.4,0.0,0.6,1.0,False,211975
 712.0,Perrone,MID,MCI,11.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,11.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,11.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,11.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,11.0,Shrey,12,bench,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,2.6,0.0,0.0,0.3,6.0,False,37915
 426.0,Forster,GK,TOT,11.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,11.0,Yahya,10,fielded,9.0,90.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,37.0,52.2,36.3,130.0,21.9,9.0,False,78830
@@ -5668,6 +5696,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,12.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,12.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,12.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,12.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,12.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,19.0,21.3,0.0,4.0,2.0,False,54469
 58.0,Stanislas,MID,BOU,12.0,transfer market,,n/a,1.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,10.0,22.6,6.0,3.9,1.0,False,56872
 59.0,Fredericks,DEF,BOU,12.0,transfer market,,n/a,2.0,82.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,12.4,18.3,2.0,3.3,2.0,False,81012
@@ -6091,6 +6120,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,12.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,12.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,211975
 712.0,Perrone,MID,MCI,12.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,12.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,12.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,12.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,12.0,Shrey,12,bench,3.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,29.0,53.2,0.0,0.0,5.3,3.0,False,37915
 426.0,Forster,GK,TOT,12.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,12.0,Yahya,10,fielded,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.2,12.0,68.0,9.1,2.0,False,78830
@@ -6439,6 +6471,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,13.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,13.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,13.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,13.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,13.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,10.0,5.5,0.0,1.6,1.0,False,54469
 58.0,Stanislas,MID,BOU,13.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,13.0,transfer market,,n/a,1.0,56.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,4.8,0.8,4.0,1.0,1.0,False,81012
@@ -6862,6 +6895,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,13.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,13.0,Ali,4,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,14.0,3.7,0.0,1.8,2.0,False,211975
 712.0,Perrone,MID,MCI,13.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,13.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,13.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,13.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,13.0,Shrey,12,bench,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,12.0,17.2,0.0,0.0,1.7,2.0,False,37915
 426.0,Forster,GK,TOT,13.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,13.0,Yahya,11,fielded,8.0,90.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,33.0,45.0,35.1,84.0,16.4,8.0,False,78830
@@ -7210,6 +7246,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,14.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,14.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,14.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,14.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,14.0,transfer market,,n/a,5.0,90.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,23.0,29.8,14.5,0.0,4.4,5.0,False,54469
 58.0,Stanislas,MID,BOU,14.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,14.0,transfer market,,n/a,1.0,12.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,0.3,0.0,0.2,1.0,False,81012
@@ -7633,6 +7670,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,14.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,14.0,Ali,5,fielded,6.0,71.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,8.6,10.2,14.0,3.3,6.0,False,211975
 712.0,Perrone,MID,MCI,14.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,14.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,14.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,14.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,14.0,Shrey,12,bench,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,14.0,21.6,0.0,0.0,2.2,1.0,False,37915
 426.0,Forster,GK,TOT,14.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,14.0,Yahya,11,fielded,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-4.0,3.4,14.3,45.0,6.3,1.0,False,78830
@@ -7981,6 +8021,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,15.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,15.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,15.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,15.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,15.0,transfer market,,n/a,0.0,90.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,16.0,0.7,0.0,1.7,0.0,False,54469
 58.0,Stanislas,MID,BOU,15.0,transfer market,,n/a,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,False,56872
 59.0,Fredericks,DEF,BOU,15.0,transfer market,,n/a,1.0,72.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,7.6,0.3,0.0,0.8,1.0,False,81012
@@ -8404,6 +8445,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,15.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,15.0,Ali,4,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,10.6,2.0,31.0,4.4,2.0,False,211975
 712.0,Perrone,MID,MCI,15.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,15.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,15.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,15.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,15.0,Shrey,12,bench,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,15.0,25.6,0.0,0.0,2.6,2.0,False,37915
 426.0,Forster,GK,TOT,15.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,15.0,Yahya,11,fielded,8.0,90.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,24.0,34.6,12.2,35.0,8.2,8.0,False,78830
@@ -8752,6 +8796,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,16.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,16.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,16.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,16.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,16.0,transfer market,,n/a,8.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,28.0,21.2,14.8,0.0,3.6,8.0,True,54469
 58.0,Stanislas,MID,BOU,16.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,16.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -9175,6 +9220,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,16.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,16.0,Ali,3,fielded,5.0,90.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,25.0,29.2,34.2,7.0,7.0,5.0,False,211975
 712.0,Perrone,MID,MCI,16.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,16.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,16.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,16.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,16.0,Shrey,12,bench,1.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,12.0,23.8,0.0,0.0,2.4,1.0,False,37915
 426.0,Forster,GK,TOT,16.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,16.0,Yahya,11,fielded,11.0,90.0,1.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,45.0,40.6,23.7,43.0,10.7,11.0,False,78830
@@ -9523,6 +9571,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,17.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,17.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,17.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,17.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,17.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,5.4,2.3,6.0,1.4,1.0,False,54469
 58.0,Stanislas,MID,BOU,17.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,17.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -9946,6 +9995,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,17.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,17.0,Ali,4,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,14.8,1.3,2.0,1.8,2.0,False,211975
 712.0,Perrone,MID,MCI,17.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,17.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,17.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,17.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,17.0,Shrey,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,37915
 426.0,Forster,GK,TOT,17.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,15.0,21.6,0.0,0.0,2.2,2.0,False,40383
 427.0,Kane,FWD,TOT,17.0,Yahya,11,fielded,7.0,90.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,25.0,36.4,4.3,52.0,9.3,7.0,False,78830
@@ -10294,6 +10346,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,18.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,18.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,18.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,18.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,18.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,11.6,1.8,0.0,1.3,1.0,False,54469
 58.0,Stanislas,MID,BOU,18.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,18.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -10717,6 +10770,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,18.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,18.0,Ali,4,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,11.6,3.6,2.0,1.7,2.0,False,211975
 712.0,Perrone,MID,MCI,18.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,18.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,18.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,18.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,18.0,Shrey,12,bench,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,8.0,5.2,0.0,0.0,0.5,1.0,False,37915
 426.0,Forster,GK,TOT,18.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,18.0,Yahya,11,fielded,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.2,3.4,24.0,2.9,2.0,False,78830
@@ -11065,6 +11121,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,19.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,19.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,19.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,19.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,19.0,transfer market,,n/a,0.0,62.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,10.4,15.4,2.0,2.8,0.0,False,54469
 58.0,Stanislas,MID,BOU,19.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,19.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -11488,6 +11545,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,19.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,19.0,Ali,4,fielded,1.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,8.8,1.3,0.0,1.0,1.0,False,211975
 712.0,Perrone,MID,MCI,19.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,19.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,19.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,19.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,19.0,Shrey,12,bench,7.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,30.0,33.4,0.0,0.0,3.3,7.0,False,37915
 426.0,Forster,GK,TOT,19.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,19.0,Yahya,11,fielded,16.0,90.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,66.0,78.6,44.7,70.0,19.3,16.0,True,78830
@@ -11836,6 +11896,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,20.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,20.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,20.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,20.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,20.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,54469
 58.0,Stanislas,MID,BOU,20.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,20.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -12259,6 +12320,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,20.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,20.0,Ali,3,fielded,2.0,180.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0,34.0,3.9,2.0,4.0,2.0,False,211975
 712.0,Perrone,MID,MCI,20.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,20.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,20.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,20.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,20.0,Shrey,12,bench,0.0,180.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,6.0,0.0,26.0,41.4,0.0,0.0,4.2,0.0,False,37915
 426.0,Forster,GK,TOT,20.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,20.0,Yahya,11,fielded,7.0,180.0,0.0,1.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,29.6,48.1,74.0,15.2,7.0,False,78830
@@ -12607,6 +12671,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,21.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,248857
 724.0,Enzo,MID,CHE,21.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,448047
 769.0,Wady,GK,CHE,21.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,21.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,21.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,5.0,0.9,0.0,0.6,2.0,False,54469
 58.0,Stanislas,MID,BOU,21.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,21.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -13030,6 +13095,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,21.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,21.0,Ali,2,fielded,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,20.2,1.3,2.0,2.4,6.0,False,211975
 712.0,Perrone,MID,MCI,21.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,482769
+772.0,Robertson,MID,MCI,21.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,21.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,21.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,21.0,Shrey,12,bench,9.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.0,30.0,30.4,0.0,0.0,3.0,9.0,False,37915
 426.0,Forster,GK,TOT,21.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,21.0,Yahya,11,fielded,6.0,90.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,36.0,3.0,54.0,9.3,6.0,False,78830
@@ -13378,6 +13446,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,22.0,transfer market,,n/a,1.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,10.0,22.0,2.0,3.4,1.0,False,248857
 724.0,Enzo,MID,CHE,22.0,Ali,5,fielded,3.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,31.2,11.6,1.0,4.4,3.0,False,448047
 769.0,Wady,GK,CHE,22.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,22.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,22.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,5.0,0.7,0.0,0.6,1.0,False,54469
 58.0,Stanislas,MID,BOU,22.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,22.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -13801,6 +13870,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,22.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,22.0,Ali,14,bench,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,30.4,15.4,40.0,8.6,2.0,False,211975
 712.0,Perrone,MID,MCI,22.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,22.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,22.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,22.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,22.0,Shrey,12,bench,10.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,3.0,31.0,30.6,0.0,0.0,3.1,10.0,False,37915
 426.0,Forster,GK,TOT,22.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,22.0,Yahya,11,fielded,8.0,90.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,27.0,38.6,20.6,57.0,11.6,8.0,False,78830
@@ -14149,6 +14221,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,23.0,Sami,14,bench,2.0,67.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,13.4,3.3,25.0,4.2,2.0,False,248857
 724.0,Enzo,MID,CHE,23.0,Ali,6,fielded,6.0,90.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,21.0,34.0,19.6,4.0,5.8,6.0,False,448047
 769.0,Wady,GK,CHE,23.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,23.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,23.0,transfer market,,n/a,1.0,78.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.2,0.0,0.0,0.1,1.0,False,54469
 58.0,Stanislas,MID,BOU,23.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,23.0,transfer market,,n/a,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,0.0,2.0,0.8,1.0,False,81012
@@ -14572,6 +14645,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,23.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,23.0,Ali,5,fielded,2.0,74.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,8.6,0.3,5.0,1.4,2.0,False,211975
 712.0,Perrone,MID,MCI,23.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,23.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,23.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,23.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,23.0,Shrey,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,37915
 426.0,Forster,GK,TOT,23.0,transfer market,,n/a,0.0,90.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,12.0,19.2,0.0,0.0,1.9,0.0,False,40383
 427.0,Kane,FWD,TOT,23.0,Yahya,11,fielded,2.0,90.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,8.4,22.3,19.0,5.0,2.0,False,78830
@@ -14920,6 +14996,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,24.0,transfer market,,n/a,2.0,63.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,10.6,22.8,19.0,5.2,2.0,False,248857
 724.0,Enzo,MID,CHE,24.0,Ali,7,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,16.0,2.1,2.0,2.0,2.0,False,448047
 769.0,Wady,GK,CHE,24.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,24.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,24.0,transfer market,,n/a,5.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,15.0,11.6,0.7,0.0,1.2,5.0,False,54469
 58.0,Stanislas,MID,BOU,24.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,24.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -15343,6 +15420,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,24.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,24.0,Ali,13,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,211975
 712.0,Perrone,MID,MCI,24.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,24.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,24.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,24.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,24.0,Shrey,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,37915
 426.0,Forster,GK,TOT,24.0,transfer market,,n/a,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,22.0,10.8,0.0,0.0,1.1,6.0,False,40383
 427.0,Kane,FWD,TOT,24.0,Yahya,11,fielded,5.0,90.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,18.0,26.4,13.0,5.7,5.0,False,78830
@@ -15691,6 +15771,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,25.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,248857
 724.0,Enzo,MID,CHE,25.0,Ali,6,fielded,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,22.0,24.3,4.0,5.0,2.0,False,448047
 769.0,Wady,GK,CHE,25.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,25.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,25.0,transfer market,,n/a,-1.0,58.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,6.6,0.6,7.0,1.4,-1.0,False,54469
 58.0,Stanislas,MID,BOU,25.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,25.0,transfer market,,n/a,1.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.6,0.7,2.0,0.5,1.0,False,81012
@@ -16114,6 +16195,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,25.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,25.0,Ali,3,fielded,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,14.0,15.0,4.3,2.0,2.1,1.0,False,211975
 712.0,Perrone,MID,MCI,25.0,transfer market,,n/a,1.0,18.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,2.6,4.0,0.8,1.0,False,482769
+772.0,Robertson,MID,MCI,25.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,25.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,25.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,25.0,Shrey,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,37915
 426.0,Forster,GK,TOT,25.0,transfer market,,n/a,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,25.0,14.6,0.0,0.0,1.5,6.0,False,40383
 427.0,Kane,FWD,TOT,25.0,Yahya,11,fielded,6.0,90.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,41.0,3.5,38.0,8.3,6.0,False,78830
@@ -16462,6 +16546,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,26.0,transfer market,,n/a,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,10.4,0.0,1.3,1.0,False,248857
 724.0,Enzo,MID,CHE,26.0,transfer market,,n/a,3.0,83.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,7.2,6.3,9.0,2.3,3.0,False,448047
 769.0,Wady,GK,CHE,26.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,26.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,26.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,13.0,0.3,0.0,1.3,1.0,False,54469
 58.0,Stanislas,MID,BOU,26.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,26.0,transfer market,,n/a,0.0,26.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,11.2,0.6,0.0,1.2,0.0,False,81012
@@ -16885,6 +16970,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,26.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,26.0,Ali,4,fielded,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,7.6,1.0,0.0,0.9,6.0,False,211975
 712.0,Perrone,MID,MCI,26.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,26.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,26.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,26.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,26.0,Shrey,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,37915
 426.0,Forster,GK,TOT,26.0,Ali,12,bench,3.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,15.0,22.4,0.0,0.0,2.2,3.0,False,40383
 427.0,Kane,FWD,TOT,26.0,Yahya,10,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,6.8,25.8,17.0,5.0,2.0,False,78830
@@ -17233,6 +17321,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,27.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,248857
 724.0,Enzo,MID,CHE,27.0,transfer market,,n/a,5.0,90.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,35.0,16.7,0.0,5.2,5.0,False,448047
 769.0,Wady,GK,CHE,27.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,27.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,27.0,transfer market,,n/a,6.0,79.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,7.2,4.3,0.0,1.2,6.0,False,54469
 58.0,Stanislas,MID,BOU,27.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,27.0,transfer market,,n/a,1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,0.0,0.0,0.2,1.0,False,81012
@@ -17656,6 +17745,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,27.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,27.0,Ali,4,fielded,9.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,25.0,20.6,14.8,5.0,4.0,9.0,False,211975
 712.0,Perrone,MID,MCI,27.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,27.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,27.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,27.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,27.0,Shrey,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,37915
 426.0,Forster,GK,TOT,27.0,Ali,1,fielded,9.0,90.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,4.0,1.0,31.0,55.2,0.0,0.0,5.5,9.0,False,40383
 427.0,Kane,FWD,TOT,27.0,Yahya,10,fielded,13.0,90.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,56.0,71.8,10.9,64.0,14.7,13.0,True,78830
@@ -18004,6 +18096,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,28.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,248857
 724.0,Enzo,MID,CHE,28.0,Santi,6,fielded,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,20.6,26.0,14.0,6.1,2.0,False,448047
 769.0,Wady,GK,CHE,28.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,28.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,28.0,transfer market,,n/a,2.0,78.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,7.4,26.0,2.0,3.5,2.0,False,54469
 58.0,Stanislas,MID,BOU,28.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,28.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -18427,6 +18520,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,28.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,28.0,Ali,3,fielded,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,211975
 712.0,Perrone,MID,MCI,28.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,28.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,28.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,28.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,28.0,Shrey,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,37915
 426.0,Forster,GK,TOT,28.0,Ali,1,fielded,2.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,16.0,22.4,0.0,0.0,2.2,2.0,False,40383
 427.0,Kane,FWD,TOT,28.0,Yahya,10,fielded,6.0,90.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,32.2,2.8,46.0,8.1,6.0,False,78830
@@ -18775,6 +18871,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,29.0,transfer market,,n/a,1.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,8.4,22.1,10.0,4.1,1.0,False,248857
 724.0,Enzo,MID,CHE,29.0,transfer market,,n/a,4.0,180.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,32.0,28.8,63.1,7.0,9.9,4.0,False,448047
 769.0,Wady,GK,CHE,29.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,29.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,29.0,transfer market,,n/a,3.0,180.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,10.8,2.9,4.0,1.7,3.0,False,54469
 58.0,Stanislas,MID,BOU,29.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,29.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -19198,6 +19295,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,29.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,29.0,Ali,3,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,14.4,2.8,2.0,1.9,2.0,False,211975
 712.0,Perrone,MID,MCI,29.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,29.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,29.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,29.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,29.0,Shrey,12,bench,3.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,21.0,33.4,0.0,0.0,3.3,3.0,False,37915
 426.0,Forster,GK,TOT,29.0,Ali,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,29.0,Yahya,10,fielded,7.0,90.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,22.0,33.6,1.3,30.0,6.5,7.0,False,78830
@@ -19546,6 +19646,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,30.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,248857
 724.0,Enzo,MID,CHE,30.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,19.0,6.3,0.0,2.5,2.0,False,448047
 769.0,Wady,GK,CHE,30.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,30.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,30.0,transfer market,,n/a,5.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,20.0,12.6,5.5,2.0,2.0,5.0,False,54469
 58.0,Stanislas,MID,BOU,30.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,30.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -19969,6 +20070,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,30.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,30.0,Ali,3,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,6.6,1.1,0.0,0.8,2.0,False,211975
 712.0,Perrone,MID,MCI,30.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,30.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,30.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,30.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,30.0,Shrey,12,bench,3.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,13.0,13.6,0.0,0.0,1.4,3.0,False,37915
 426.0,Forster,GK,TOT,30.0,Ali,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,30.0,Yahya,10,fielded,9.0,90.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,36.0,42.4,24.9,27.0,9.4,9.0,True,78830
@@ -20317,6 +20421,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,31.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,248857
 724.0,Enzo,MID,CHE,31.0,transfer market,,n/a,1.0,56.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.4,0.5,0.0,0.2,1.0,False,448047
 769.0,Wady,GK,CHE,31.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,31.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,31.0,transfer market,,n/a,1.0,41.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,10.0,0.2,0.0,1.0,1.0,False,54469
 58.0,Stanislas,MID,BOU,31.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,31.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -20740,6 +20845,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,31.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,31.0,Ali,3,fielded,1.0,45.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,12.4,1.1,0.0,1.4,1.0,False,211975
 712.0,Perrone,MID,MCI,31.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,31.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,31.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,31.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,31.0,Shrey,12,bench,2.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,13.0,17.8,0.0,0.0,1.8,2.0,False,37915
 426.0,Forster,GK,TOT,31.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40383
 427.0,Kane,FWD,TOT,31.0,Yahya,10,fielded,2.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.6,23.2,41.0,7.0,2.0,False,78830
@@ -21088,6 +21196,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,32.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,248857
 724.0,Enzo,MID,CHE,32.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,448047
 769.0,Wady,GK,CHE,32.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,32.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,32.0,transfer market,,n/a,1.0,60.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,14.2,26.7,2.0,4.3,1.0,False,54469
 58.0,Stanislas,MID,BOU,32.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,32.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -21511,6 +21620,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,32.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,32.0,Ali,14,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,211975
 712.0,Perrone,MID,MCI,32.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,32.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,32.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,32.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,32.0,Shrey,12,bench,-1.0,45.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,8.4,0.0,0.0,0.8,-1.0,False,37915
 426.0,Forster,GK,TOT,32.0,transfer market,,n/a,1.0,45.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.0,9.8,0.0,0.0,1.0,1.0,False,40383
 427.0,Kane,FWD,TOT,32.0,Yahya,11,fielded,6.0,90.0,1.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0,37.2,2.5,38.0,7.8,6.0,False,78830
@@ -21859,6 +21971,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,33.0,transfer market,,n/a,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.3,8.0,0.9,1.0,False,248857
 724.0,Enzo,MID,CHE,33.0,transfer market,,n/a,2.0,78.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,23.0,37.1,17.0,7.7,2.0,False,448047
 769.0,Wady,GK,CHE,33.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,33.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,33.0,transfer market,,n/a,1.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,1.0,False,54469
 58.0,Stanislas,MID,BOU,33.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,33.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -22282,6 +22395,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,33.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,33.0,Ali,13,bench,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,11.2,1.1,6.0,1.8,2.0,False,211975
 712.0,Perrone,MID,MCI,33.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,33.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,33.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,33.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,33.0,Shrey,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,37915
 426.0,Forster,GK,TOT,33.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,18.0,0.0,0.0,0.0,0.0,2.0,False,40383
 427.0,Kane,FWD,TOT,33.0,Yahya,11,fielded,11.0,90.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,46.0,0.0,0.0,0.0,0.0,11.0,True,78830
@@ -22630,6 +22746,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,34.0,transfer market,,n/a,8.0,78.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,28.0,43.4,2.1,25.0,7.1,8.0,False,248857
 724.0,Enzo,MID,CHE,34.0,transfer market,,n/a,2.0,70.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,4.4,8.3,2.0,1.5,2.0,False,448047
 769.0,Wady,GK,CHE,34.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,34.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,34.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,14.0,15.4,14.7,0.0,3.0,1.0,False,54469
 58.0,Stanislas,MID,BOU,34.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,34.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -23053,6 +23170,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,34.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,34.0,Ali,4,fielded,3.0,103.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,20.8,24.8,4.0,5.0,3.0,False,211975
 712.0,Perrone,MID,MCI,34.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,34.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,34.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,34.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,34.0,Shrey,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,37915
 426.0,Forster,GK,TOT,34.0,Ali,1,fielded,0.0,90.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,1.8,0.0,0.0,0.2,0.0,False,40383
 427.0,Kane,FWD,TOT,34.0,Yahya,11,fielded,8.0,90.0,1.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,31.0,40.2,30.1,17.0,8.7,8.0,False,78830
@@ -23401,6 +23521,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,35.0,transfer market,,n/a,2.0,75.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,12.0,5.6,51.0,6.9,2.0,False,248857
 724.0,Enzo,MID,CHE,35.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,9.8,6.1,3.0,1.9,2.0,False,448047
 769.0,Wady,GK,CHE,35.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,35.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,35.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,7.2,0.6,0.0,0.8,1.0,False,54469
 58.0,Stanislas,MID,BOU,35.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,35.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -23824,6 +23945,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,35.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,35.0,Ali,2,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,11.6,4.5,8.0,2.4,2.0,False,211975
 712.0,Perrone,MID,MCI,35.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,35.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,35.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,35.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,35.0,Shrey,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,37915
 426.0,Forster,GK,TOT,35.0,Ali,12,bench,5.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,21.0,17.6,0.0,0.0,1.8,5.0,False,40383
 427.0,Kane,FWD,TOT,35.0,Yahya,11,fielded,8.0,90.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,33.0,42.8,15.1,19.0,7.7,8.0,False,78830
@@ -24172,6 +24296,7 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 708.0,Madueke,MID,CHE,36.0,transfer market,,n/a,2.0,72.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,11.4,3.4,16.0,3.1,2.0,False,248857
 724.0,Enzo,MID,CHE,36.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,14.8,33.6,1.0,4.9,2.0,False,448047
 769.0,Wady,GK,CHE,36.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,447107
+775.0,Gilchrist,DEF,CHE,36.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,514280
 57.0,Smith,DEF,BOU,36.0,transfer market,,n/a,1.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.6,0.2,0.0,0.2,1.0,False,54469
 58.0,Stanislas,MID,BOU,36.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
 59.0,Fredericks,DEF,BOU,36.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
@@ -24595,6 +24720,9 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 601.0,Knight,MID,MCI,36.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
 608.0,Akanji,DEF,MCI,36.0,Ali,4,fielded,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.0,11.8,6.8,4.0,2.3,6.0,False,211975
 712.0,Perrone,MID,MCI,36.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,36.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,434043
+773.0,Charles,MID,MCI,36.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,463210
+774.0,O'Reilly,MID,MCI,36.0,transfer market,,n/a,0.0,,,,,,,,,,,,,,,,,,,,472769
 425.0,Lloris,GK,TOT,36.0,Shrey,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,37915
 426.0,Forster,GK,TOT,36.0,Ali,12,bench,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,13.0,17.6,0.0,0.0,1.8,1.0,False,40383
 427.0,Kane,FWD,TOT,36.0,Yahya,11,fielded,7.0,90.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,24.0,35.2,8.1,38.0,8.1,7.0,False,78830
@@ -24671,3 +24799,778 @@ player_id,player_name,position,team,gameweek,manager_id,squad_position,bench,poi
 704.0,Sarabia,MID,WOL,36.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,88484
 717.0,Bentley,GK,WOL,36.0,transfer market,,n/a,3.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,25.0,52.2,0.0,0.0,5.2,3.0,False,79602
 721.0,João Gomes,MID,WOL,36.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,448089
+1.0,Cédric,DEF,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,58822
+2.0,Leno,GK,FUL,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,17.0,22.8,0.0,0.0,2.3,2.0,False,80201
+105.0,Duffy,DEF,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,61933
+200.0,Cairney,MID,FUL,37.0,transfer market,,n/a,2.0,79.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,6.2,26.3,14.0,4.7,2.0,False,76357
+201.0,Ream,DEF,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,82514
+202.0,Knockaert,MID,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,83543
+203.0,Chalobah,MID,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,89085
+204.0,Kebano,MID,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,92259
+205.0,De Cordova-Reid,MID,FUL,37.0,transfer market,,n/a,1.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.3,0.0,0.0,1.0,False,96994
+206.0,Bryan,DEF,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,101105
+207.0,Gazzaniga,GK,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,102884
+208.0,Kongolo,DEF,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,109434
+209.0,Tosin,DEF,FUL,37.0,transfer market,,n/a,0.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,8.0,26.4,0.5,10.0,3.7,0.0,False,109646
+210.0,Mitrović,FWD,FUL,37.0,Dani,9,fielded,13.0,90.0,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,49.0,64.8,3.8,42.0,11.1,13.0,True,128389
+211.0,Reed,MID,FUL,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,8.6,12.1,10.0,3.1,2.0,False,153366
+212.0,Wilson,MID,FUL,37.0,transfer market,,n/a,5.0,79.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,5.2,4.4,18.0,2.8,5.0,False,153682
+213.0,Rodák,GK,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,155529
+214.0,Cavaleiro,MID,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,166324
+215.0,Tete,DEF,FUL,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,23.8,2.3,0.0,2.6,1.0,False,167074
+216.0,Onomah,MID,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,168765
+217.0,Robinson,DEF,FUL,37.0,transfer market,,n/a,0.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,6.0,2.8,16.2,0.0,1.9,0.0,False,169528
+218.0,Muniz,FWD,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244042
+219.0,Stansfield,FWD,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,490146
+220.0,Palhinha,MID,FUL,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.6,2.0,0.0,0.4,1.0,False,154296
+231.0,James,MID,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,200617
+346.0,Andreas,MID,FUL,37.0,Yahya,14,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,156689
+470.0,Diop,DEF,FUL,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,15.8,0.4,0.0,1.6,1.0,False,219924
+521.0,Francois,MID,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,432931
+532.0,Mbabu,DEF,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,120721
+546.0,Harris,MID,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,515024
+562.0,Solomon,MID,FUL,37.0,transfer market,,n/a,1.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.3,0.0,0.0,1.0,False,235674
+591.0,Ablade,FWD,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,247664
+612.0,Kurzawa,DEF,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,89068
+613.0,Willian,MID,FUL,37.0,transfer market,,n/a,6.0,90.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,27.0,34.0,59.1,24.0,11.7,6.0,False,47431
+618.0,Vinícius,FWD,FUL,37.0,Ali,14,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,245824
+637.0,Parkes,DEF,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,478227
+641.0,Godo,MID,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,573062
+667.0,Sekularac,MID,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,511504
+726.0,Lukic,MID,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,212314
+747.0,Wickens,GK,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,235449
+750.0,C.Robinson,DEF,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,547673
+763.0,Dibley-Dias,MID,FUL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,515023
+3.0,Xhaka,MID,ARS,37.0,Ruslan,9,fielded,2.0,62.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,3.4,1.6,0.0,0.5,2.0,False,84450
+4.0,Elneny,MID,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,153256
+5.0,Holding,DEF,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,156074
+6.0,Partey,MID,ARS,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,14.8,13.9,6.0,3.5,2.0,False,167199
+7.0,Ødegaard,MID,ARS,37.0,Sami,6,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,2.6,25.0,5.0,3.3,2.0,False,184029
+8.0,Tierney,DEF,ARS,37.0,Sami,14,bench,1.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,2.1,6.0,0.9,1.0,False,192895
+9.0,Pépé,MID,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,195735
+10.0,White,DEF,ARS,37.0,Ruslan,2,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,17.8,22.8,0.0,4.1,2.0,False,198869
+11.0,Nketiah,FWD,ARS,37.0,transfer market,,n/a,1.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.8,4.0,0.4,1.0,False,205533
+12.0,Smith Rowe,MID,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,209289
+13.0,Saka,MID,ARS,37.0,Yahya,6,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,8.8,32.6,23.0,6.4,2.0,False,223340
+14.0,Tomiyasu,DEF,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,223723
+15.0,Ramsdale,GK,ARS,37.0,Ruslan,1,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,11.0,12.2,0.0,0.0,1.2,2.0,False,225321
+16.0,Gabriel,DEF,ARS,37.0,Ruslan,6,fielded,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,12.0,19.6,16.3,0.0,3.6,1.0,False,226597
+17.0,Tavares,DEF,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,437626
+19.0,Martinelli,MID,ARS,37.0,Youssef,15,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,444145
+20.0,Pablo Marí,DEF,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,92371
+22.0,Torreira,MID,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,198849
+23.0,Nelson,MID,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,200641
+24.0,Turner,GK,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,224068
+25.0,Fábio Vieira,MID,ARS,37.0,transfer market,,n/a,1.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.6,11.6,2.0,1.8,1.0,False,438098
+26.0,Saliba,DEF,ARS,37.0,Yahya,13,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,462424
+27.0,Marquinhos,MID,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,479683
+28.0,Jesus,FWD,ARS,37.0,Ruslan,11,fielded,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-5.0,6.2,13.6,80.0,10.0,1.0,False,205651
+111.0,Trossard,MID,ARS,37.0,Ruslan,10,fielded,2.0,69.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,17.1,9.0,2.8,2.0,False,116216
+130.0,Jorginho,MID,ARS,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,13.2,14.3,6.0,3.4,2.0,False,85955
+313.0,Zinchenko,DEF,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,206325
+607.0,Smith,MID,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,232241
+630.0,Nwaneri,MID,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,499175
+631.0,Sousa,DEF,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,514315
+655.0,Hein,GK,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,463748
+668.0,Cozier-Duberry,MID,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,519324
+685.0,Butler-Oyedeji,FWD,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,461025
+710.0,Kiwior,DEF,ARS,37.0,transfer market,,n/a,2.0,62.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,1.0,2.8,0.0,0.4,2.0,False,440854
+751.0,Walters,DEF,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,535262
+766.0,Bandeira,MID,ARS,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,504751
+18.0,Sambi,MID,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,437742
+152.0,Guaita,GK,CRY,37.0,Yahya,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40836
+153.0,Tomkins,DEF,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,49413
+154.0,McArthur,MID,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,50471
+155.0,Benteke,FWD,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,54861
+156.0,Ward,DEF,CRY,37.0,Santi,3,fielded,7.0,90.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,49.0,1.4,52.0,10.2,7.0,False,55494
+157.0,Clyne,DEF,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,57328
+158.0,Milivojevic,MID,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,66975
+159.0,J.Ayew,MID,CRY,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,12.0,12.8,13.0,3.8,2.0,False,80146
+160.0,Zaha,MID,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,82403
+161.0,Schlupp,MID,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,86417
+163.0,Hughes,MID,CRY,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,16.4,12.3,2.0,3.1,2.0,False,108413
+164.0,Riedewald,MID,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,173954
+165.0,Andersen,DEF,CRY,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,9.2,3.8,4.0,1.7,1.0,False,174874
+166.0,Edouard,FWD,CRY,37.0,Ruslan,14,bench,8.0,79.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,31.0,39.0,14.2,32.0,8.5,8.0,False,199670
+167.0,Guéhi,DEF,CRY,37.0,Ruslan,4,fielded,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,25.0,14.1,2.0,4.1,1.0,False,209036
+168.0,Mateta,FWD,CRY,37.0,transfer market,,n/a,1.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.2,0.3,4.0,0.5,1.0,False,231747
+169.0,Eze,MID,CRY,37.0,Yahya,8,fielded,5.0,90.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,22.2,34.2,23.0,7.9,5.0,False,232413
+170.0,Mitchell,DEF,CRY,37.0,Dani,4,fielded,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,5.4,1.9,0.0,0.7,1.0,False,244723
+171.0,Olise,MID,CRY,37.0,Sami,13,bench,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,5.6,21.2,11.0,3.8,2.0,False,443661
+172.0,Rak-Sakyi,MID,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,450542
+173.0,Ebiowei,MID,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,450535
+174.0,Ferguson,DEF,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,232423
+175.0,Johnstone,GK,CRY,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,13.0,11.6,0.0,0.0,1.2,1.0,False,101982
+495.0,Matthews,GK,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,169593
+496.0,Plange,FWD,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,450541
+514.0,C.Doucouré,MID,CRY,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,9.4,1.2,1.0,1.2,2.0,False,438464
+530.0,Richards,DEF,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,427623
+590.0,Whitworth,GK,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,487818
+599.0,Rodney,MID,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,530318
+605.0,Phillips,MID,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,532135
+635.0,Gordon,FWD,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,461382
+642.0,Balmer,DEF,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,422287
+644.0,Goodman,GK,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,515496
+654.0,Wells-Morrison,MID,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,515503
+677.0,Ozoh,MID,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,531989
+725.0,Ahamada,MID,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,466117
+767.0,Adaramola,DEF,CRY,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,501468
+21.0,Maitland-Niles,MID,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,154043
+321.0,Lavia,MID,SOU,37.0,transfer market,,n/a,2.0,83.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,20.0,0.5,0.0,2.1,2.0,False,514356
+400.0,Walcott,MID,SOU,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,5.2,13.3,6.0,2.5,2.0,False,20467
+401.0,McCarthy,GK,SOU,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,18.0,38.4,0.0,0.0,3.8,2.0,False,58376
+402.0,Romeu,MID,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,78056
+403.0,Redmond,MID,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,83283
+405.0,S.Armstrong,MID,SOU,37.0,transfer market,,n/a,1.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.6,0.3,0.0,0.3,1.0,False,91047
+406.0,Elyounoussi,MID,SOU,37.0,transfer market,,n/a,6.0,70.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,19.0,34.2,2.4,37.0,7.4,6.0,False,96787
+407.0,Ward-Prowse,MID,SOU,37.0,Yahya,7,fielded,4.0,90.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,18.0,29.0,29.8,2.0,6.1,4.0,False,101178
+408.0,A.Armstrong,FWD,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,155511
+409.0,Walker-Peters,DEF,SOU,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,10.4,2.0,0.0,1.2,1.0,False,158534
+410.0,Bednarek,DEF,SOU,37.0,transfer market,,n/a,0.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,13.0,24.8,0.3,0.0,2.5,0.0,False,171771
+411.0,Adams,FWD,SOU,37.0,Youssef,13,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,200439
+412.0,Tella,MID,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,203389
+413.0,Lyanco,DEF,SOU,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,20.0,0.1,0.0,2.0,1.0,False,212721
+414.0,Valery,DEF,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,213482
+415.0,Smallbone,MID,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,214466
+416.0,Diallo,MID,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,240143
+417.0,Perraud,DEF,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244560
+418.0,Djenepo,MID,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,431131
+419.0,Livramento,DEF,SOU,37.0,transfer market,,n/a,1.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,5.8,0.0,0.0,0.6,1.0,False,441191
+420.0,Salisu,DEF,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,450527
+421.0,Lis,GK,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,200428
+422.0,Bazunu,GK,SOU,37.0,Youssef,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,456350
+423.0,Bella-Kotchap,DEF,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,477386
+424.0,Caballero,GK,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,20310
+512.0,Aribo,MID,SOU,37.0,transfer market,,n/a,2.0,69.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,4.2,3.0,0.0,0.7,2.0,False,193204
+528.0,Mara,FWD,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,476888
+622.0,Larios,DEF,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,515571
+623.0,Caleta-Car,DEF,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,173271
+624.0,Edozie,MID,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,490503
+647.0,Payne,MID,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,476161
+648.0,Finnigan,MID,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,447372
+671.0,Morgan,FWD,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,493736
+692.0,Orsic,MID,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81205
+694.0,Alcaraz,MID,SOU,37.0,transfer market,,n/a,1.0,70.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-1.0,0.0,4.0,4.0,0.6,1.0,False,502697
+715.0,Bree,DEF,SOU,37.0,transfer market,,n/a,0.0,76.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,7.0,7.2,1.1,0.0,0.8,0.0,False,184386
+731.0,Kamaldeen,MID,SOU,37.0,transfer market,,n/a,1.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.6,0.0,0.1,1.0,False,504783
+732.0,Onuachu,FWD,SOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,147611
+770.0,Doyle,MID,SOU,37.0,transfer market,,n/a,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.3,0.0,0.0,1.0,False,494541
+771.0,Ballard,FWD,SOU,37.0,transfer market,,n/a,1.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.3,0.0,0.1,1.0,False,494543
+29.0,Coutinho,MID,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,84583
+31.0,Martínez,GK,AVL,37.0,Ali,12,bench,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,21.0,26.0,0.0,0.0,2.6,2.0,False,98980
+32.0,Chambers,DEF,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,101184
+33.0,Digne,DEF,AVL,37.0,transfer market,,n/a,0.0,52.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,11.2,1.5,2.0,1.5,0.0,False,101188
+34.0,Traoré,MID,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,110504
+35.0,Olsen,GK,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,111782
+36.0,Sanson,MID,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,122775
+37.0,McGinn,MID,AVL,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,9.0,8.9,10.0,2.8,2.0,False,122806
+38.0,Hause,DEF,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,123354
+39.0,Mings,DEF,AVL,37.0,Santi,2,fielded,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,9.0,25.2,0.5,0.0,2.6,1.0,False,149484
+40.0,Watkins,FWD,AVL,37.0,Santi,11,fielded,0.0,86.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,-4.0,3.0,13.5,8.0,2.5,0.0,False,178301
+41.0,Nakamba,MID,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,184704
+42.0,Buendía,MID,AVL,37.0,transfer market,,n/a,1.0,25.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,7.2,10.8,2.0,2.0,1.0,False,195546
+43.0,Cash,DEF,AVL,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,20.8,0.1,0.0,2.1,2.0,False,199796
+44.0,Konsa,DEF,AVL,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,8.0,23.4,0.0,0.0,2.3,1.0,False,199798
+45.0,Bailey,MID,AVL,37.0,transfer market,,n/a,1.0,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,0.3,9.0,1.3,1.0,False,215711
+46.0,Douglas Luiz,MID,AVL,37.0,transfer market,,n/a,9.0,86.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,36.0,35.0,43.3,0.0,7.8,9.0,False,230046
+47.0,Ramsey,MID,AVL,37.0,Ruslan,13,bench,8.0,90.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,24.0,45.4,4.6,50.0,10.0,8.0,False,232653
+49.0,Iroegbunam,MID,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,490094
+50.0,Diego Carlos,DEF,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,165659
+51.0,El Ghazi,MID,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,193488
+52.0,Davis,FWD,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,221239
+53.0,Kamara,MID,AVL,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,12.2,1.3,0.0,1.4,2.0,False,226944
+54.0,Archer,FWD,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,433979
+55.0,Philogene-Bidace,MID,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,481624
+56.0,Guilbert,DEF,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,203368
+479.0,Dendoncker,MID,AVL,37.0,transfer market,,n/a,1.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,3.2,0.1,0.0,0.3,1.0,False,151589
+523.0,Augustinsson,DEF,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,155561
+537.0,Kesler Hayden,DEF,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,537043
+538.0,Young,DEF,AVL,37.0,transfer market,,n/a,0.0,37.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,5.0,11.0,0.0,2.0,1.3,0.0,False,18892
+638.0,Bogarde,DEF,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,515597
+669.0,Marschall,GK,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,462381
+670.0,Kadan Young,MID,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,537403
+693.0,Álex Moreno,DEF,AVL,37.0,Santi,14,bench,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,5.2,4.1,0.0,0.9,1.0,False,106468
+706.0,Sinisalo,GK,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,248164
+711.0,Durán,FWD,AVL,37.0,transfer market,,n/a,1.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.2,0.3,0.0,0.3,1.0,False,476344
+742.0,Swinkels,DEF,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,514287
+743.0,Zych,GK,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,516159
+752.0,Wright,GK,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,481283
+754.0,Revan,DEF,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,479641
+755.0,Patterson,MID,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,534836
+761.0,O'Reilly,MID,AVL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,515599
+30.0,Ings,FWD,WHU,37.0,transfer market,,n/a,5.0,90.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,18.8,27.1,24.0,7.0,5.0,False,84939
+455.0,Fabianski,GK,WHU,37.0,Ruslan,12,bench,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,14.0,19.8,0.0,0.0,2.0,2.0,False,37096
+456.0,Ogbonna,DEF,WHU,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,19.8,0.2,0.0,2.0,2.0,False,40669
+457.0,Cresswell,DEF,WHU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,55459
+458.0,Antonio,FWD,WHU,37.0,Shrey,11,fielded,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,57531
+460.0,Lanzini,MID,WHU,37.0,transfer market,,n/a,7.0,6.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,26.0,36.6,10.5,19.0,6.6,7.0,False,86934
+461.0,Zouma,DEF,WHU,37.0,transfer market,,n/a,1.0,45.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,4.0,0.3,1.0,False,103192
+462.0,Masuaku,DEF,WHU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,105717
+463.0,Coufal,DEF,WHU,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,18.2,12.3,6.0,3.7,2.0,False,164555
+464.0,Benrahma,MID,WHU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,172841
+465.0,Bowen,MID,WHU,37.0,transfer market,,n/a,13.0,83.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,42.0,64.6,58.5,58.0,18.1,13.0,True,178186
+466.0,Vlasic,MID,WHU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,180151
+467.0,Rice,MID,WHU,37.0,transfer market,,n/a,9.0,90.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,33.0,44.2,3.8,40.0,8.8,9.0,False,204480
+468.0,Soucek,MID,WHU,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,20.0,1.8,54.0,7.6,2.0,False,215439
+469.0,Fornals,MID,WHU,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,10.2,38.7,12.0,6.1,2.0,False,217593
+471.0,Johnson,DEF,WHU,37.0,transfer market,,n/a,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,False,222018
+472.0,Aguerd,DEF,WHU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,210494
+473.0,Areola,GK,WHU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,84182
+509.0,Downes,MID,WHU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,220585
+529.0,Scamacca,FWD,WHU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,195899
+545.0,Emerson,DEF,WHU,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,20.2,14.3,19.0,5.4,2.0,False,109533
+556.0,Coventry,MID,WHU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,222017
+573.0,Oko-Flex,MID,WHU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,248865
+575.0,Cornet,MID,WHU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,149519
+588.0,Kehrer,DEF,WHU,37.0,transfer market,,n/a,1.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,8.8,0.3,5.0,1.4,1.0,False,201057
+603.0,Paquetá,MID,WHU,37.0,Dani,6,fielded,4.0,90.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,24.0,44.4,36.8,40.0,12.1,4.0,False,224024
+672.0,Mubama,FWD,WHU,37.0,transfer market,,n/a,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.2,0.0,0.0,0.0,1.0,False,487837
+739.0,Anang,GK,WHU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,447879
+740.0,Hegyi,GK,WHU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,483364
+746.0,Casey,DEF,WHU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,518438
+48.0,Chukwuemeka,MID,CHE,37.0,transfer market,,n/a,3.0,90.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,10.8,17.5,6.0,3.4,3.0,False,478912
+112.0,Cucurella,DEF,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,179268
+127.0,Azpilicueta,DEF,CHE,37.0,transfer market,,n/a,2.0,180.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,30.8,31.0,0.0,6.2,2.0,False,41328
+128.0,Thiago Silva,DEF,CHE,37.0,Yahya,4,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,25.6,0.0,0.0,2.6,2.0,False,51090
+129.0,Alonso,DEF,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,82263
+131.0,Barkley,MID,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,88894
+132.0,Kovacic,MID,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,91651
+133.0,Arrizabalaga,GK,CHE,37.0,Santi,12,bench,3.0,180.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,36.0,53.6,0.0,0.0,5.3,3.0,False,109745
+134.0,Kanté,MID,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,116594
+135.0,Ziyech,MID,CHE,37.0,transfer market,,n/a,4.0,8.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,17.4,10.3,2.0,3.0,4.0,False,124183
+136.0,Loftus-Cheek,MID,CHE,37.0,transfer market,,n/a,3.0,88.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,11.0,12.9,0.0,2.4,3.0,False,126187
+137.0,Werner,FWD,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,165153
+138.0,Kenedy,DEF,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,167767
+139.0,Chilwell,DEF,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,172850
+140.0,Pulisic,MID,CHE,37.0,transfer market,,n/a,2.0,31.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,1.2,4.7,6.0,1.2,2.0,False,176413
+141.0,Chalobah,DEF,CHE,37.0,transfer market,,n/a,2.0,180.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,29.2,2.1,26.0,5.8,2.0,False,180736
+142.0,Mount,MID,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,184341
+143.0,Sarr,DEF,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,204727
+144.0,Hudson-Odoi,MID,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,209046
+145.0,Havertz,FWD,CHE,37.0,transfer market,,n/a,3.0,147.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,9.0,6.4,16.5,46.0,6.9,3.0,False,219847
+146.0,James,DEF,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,225796
+147.0,Mendy,GK,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,228286
+148.0,Gallagher,MID,CHE,37.0,transfer market,,n/a,4.0,149.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,9.4,4.6,27.0,4.1,4.0,False,232787
+150.0,Broja,FWD,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,440323
+151.0,Ampadu,DEF,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,199598
+272.0,W.Fofana,DEF,CHE,37.0,transfer market,,n/a,2.0,180.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,20.2,12.1,0.0,3.2,2.0,False,444463
+304.0,Sterling,MID,CHE,37.0,Ruslan,8,fielded,2.0,68.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,11.8,20.9,32.0,6.5,2.0,False,103955
+520.0,Koulibaly,DEF,CHE,37.0,transfer market,,n/a,1.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,10.6,0.0,0.0,1.1,1.0,False,86129
+604.0,Vale,MID,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,491785
+616.0,Zakaria,MID,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,212701
+617.0,Aubameyang,FWD,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,54694
+634.0,Bettinelli,GK,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,122074
+653.0,Hutchinson,MID,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,503301
+660.0,Hall,MID,CHE,37.0,transfer market,,n/a,7.0,170.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,51.0,47.2,71.0,58.0,17.6,7.0,False,487838
+673.0,Humphreys,DEF,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,461188
+684.0,D.D.Fofana,FWD,CHE,37.0,transfer market,,n/a,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.4,10.5,4.0,1.9,1.0,False,520295
+689.0,Badiashile,DEF,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,242880
+690.0,João Félix,FWD,CHE,37.0,transfer market,,n/a,5.0,26.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,35.0,5.3,13.0,5.3,5.0,False,428399
+699.0,Mudryk,MID,CHE,37.0,transfer market,,n/a,3.0,84.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,18.0,29.4,35.0,8.2,3.0,False,465920
+700.0,Andrey Santos,MID,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,532605
+708.0,Madueke,MID,CHE,37.0,transfer market,,n/a,3.0,102.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,18.6,38.9,26.0,8.4,3.0,False,248857
+724.0,Enzo,MID,CHE,37.0,transfer market,,n/a,2.0,180.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,28.0,31.0,45.7,0.0,7.7,2.0,False,448047
+769.0,Wady,GK,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,447107
+775.0,Gilchrist,DEF,CHE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,514280
+57.0,Smith,DEF,BOU,37.0,transfer market,,n/a,2.0,65.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,14.6,44.0,4.0,6.3,2.0,False,54469
+58.0,Stanislas,MID,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56872
+59.0,Fredericks,DEF,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81012
+60.0,Brooks,MID,BOU,37.0,transfer market,,n/a,1.0,55.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,8.4,15.7,26.0,5.0,1.0,False,111317
+61.0,Lowe,MID,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,128309
+62.0,Moore,FWD,BOU,37.0,transfer market,,n/a,1.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,4.2,0.3,17.0,2.2,1.0,False,128340
+63.0,Marcondes,MID,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,133845
+64.0,Lerma,MID,BOU,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,11.0,2.4,2.0,1.5,2.0,False,152551
+65.0,Stacey,DEF,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,154131
+66.0,Solanke,FWD,BOU,37.0,Shrey,10,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,9.6,5.4,41.0,5.6,2.0,False,154566
+67.0,Cook,MID,BOU,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,8.0,9.0,1.9,0.0,1.1,1.0,False,155408
+68.0,Pearson,MID,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,156687
+69.0,Christie,MID,BOU,37.0,transfer market,,n/a,2.0,65.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,18.2,23.8,22.0,6.4,2.0,False,158499
+70.0,Billing,MID,BOU,37.0,Dani,14,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,168991
+71.0,Mepham,DEF,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,223911
+72.0,Travers,GK,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,229600
+73.0,Kelly,DEF,BOU,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,18.4,1.4,0.0,2.0,2.0,False,235530
+74.0,Dembélé,MID,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244085
+75.0,Anthony,MID,BOU,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,7.6,4.7,0.0,1.2,2.0,False,444180
+76.0,Zemura,DEF,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,447932
+77.0,Dennis,GK,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,444172
+404.0,Stephens,DEF,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,88900
+505.0,Rothwell,MID,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,156685
+535.0,Tavernier,MID,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,201658
+539.0,Hill,DEF,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,463981
+572.0,Randolph,GK,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,32259
+574.0,Neto,GK,BOU,37.0,transfer market,,n/a,3.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,17.0,27.8,0.0,0.0,2.8,3.0,False,69752
+576.0,Senesi,DEF,BOU,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,21.0,0.8,1.0,2.3,2.0,False,221466
+595.0,Saydee,FWD,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,461017
+596.0,Bevan,DEF,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,518906
+649.0,Plain,GK,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,461012
+695.0,Adu-Adjei,FWD,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,590760
+696.0,Dacosta Gonzalez,MID,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,596572
+697.0,Sadi,FWD,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,550596
+705.0,Ouattara,MID,BOU,37.0,transfer market,,n/a,1.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,6.8,13.9,0.0,2.1,1.0,False,533463
+707.0,Pollock,FWD,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,461013
+713.0,Semenyo,FWD,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,437730
+718.0,Viña,DEF,BOU,37.0,transfer market,,n/a,1.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.6,0.6,6.0,2.1,1.0,False,244704
+722.0,Zabarnyi,DEF,BOU,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,18.6,0.8,0.0,1.9,2.0,False,477580
+723.0,H.Traorè,MID,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,424044
+735.0,Greenwood,DEF,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,474772
+736.0,Kinsey-Wellings,DEF,BOU,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,496683
+78.0,Jansson,DEF,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,61810
+79.0,Nørgaard,MID,BRE,37.0,Dani,8,fielded,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,128295
+80.0,Toney,FWD,BRE,37.0,Ruslan,15,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,144485
+81.0,Raya,GK,BRE,37.0,Dani,1,fielded,4.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,22.0,52.6,0.0,0.0,5.3,4.0,False,154561
+82.0,Canós,DEF,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,174932
+83.0,Dasilva,MID,BRE,37.0,transfer market,,n/a,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,False,183656
+84.0,Ajer,DEF,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,191866
+85.0,Henry,DEF,BRE,37.0,Yahya,2,fielded,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,12.0,16.8,28.9,1.0,4.7,1.0,False,194010
+86.0,Janelt,MID,BRE,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,6.6,1.8,0.0,0.8,2.0,False,204580
+87.0,Ghoddos,MID,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,205836
+88.0,Jensen,MID,BRE,37.0,Youssef,6,fielded,2.0,71.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,2.6,2.0,0.5,2.0,False,207283
+89.0,Wissa,MID,BRE,37.0,transfer market,,n/a,12.0,88.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,35.0,53.6,23.3,26.0,10.3,12.0,True,216646
+90.0,Roerslev,DEF,BRE,37.0,transfer market,,n/a,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0,0.2,1.0,False,226956
+91.0,Bech,DEF,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,228044
+92.0,Pinnock,DEF,BRE,37.0,Youssef,4,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,15.4,0.3,6.0,2.2,2.0,False,231065
+93.0,Onyeka,MID,BRE,37.0,transfer market,,n/a,1.0,45.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.6,11.8,2.0,2.0,1.0,False,428580
+94.0,Baptiste,MID,BRE,37.0,transfer market,,n/a,1.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.6,0.3,0.0,0.3,1.0,False,432160
+95.0,Mbeumo,FWD,BRE,37.0,Dani,11,fielded,16.0,90.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,67.0,89.6,15.2,67.0,17.2,16.0,True,446008
+96.0,Goode,DEF,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,213687
+97.0,Forss,FWD,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,216620
+98.0,Thompson,DEF,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,232247
+99.0,Bidstrup,MID,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,481405
+100.0,Balcombe,GK,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,235448
+510.0,Hickey,DEF,BRE,37.0,transfer market,,n/a,5.0,88.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,18.6,13.7,0.0,3.2,5.0,False,472713
+515.0,Lewis-Potter,MID,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,249231
+517.0,Strakosha,GK,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,140200
+526.0,Mee,DEF,BRE,37.0,Yahya,3,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,46.2,0.4,8.0,5.5,2.0,False,51927
+540.0,Stevens,DEF,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,450550
+541.0,Dervişoğlu,FWD,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,434662
+580.0,Damsgaard,MID,BRE,37.0,transfer market,,n/a,1.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,8.2,0.4,2.0,1.1,1.0,False,440089
+597.0,Zanka,DEF,BRE,37.0,transfer market,,n/a,1.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.2,0.0,0.0,0.2,1.0,False,48760
+632.0,Trevitt,MID,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,591357
+633.0,Cox,GK,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,503300
+646.0,Crama,DEF,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,592661
+650.0,Yarmolyuk,MID,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,601975
+688.0,Schade,MID,BRE,37.0,transfer market,,n/a,2.0,77.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,4.2,2.3,12.0,1.9,2.0,False,513418
+753.0,Olakigbe,MID,BRE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,501284
+101.0,Lallana,MID,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,39155
+102.0,Steele,GK,BHA,37.0,Sami,1,fielded,5.0,180.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,23.0,29.0,0.0,0.0,2.9,5.0,False,49262
+103.0,Welbeck,FWD,BHA,37.0,transfer market,,n/a,3.0,99.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,8.4,45.0,35.0,8.8,3.0,False,50175
+104.0,Groß,MID,BHA,37.0,Sami,8,fielded,11.0,180.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,55.0,71.6,102.4,72.0,24.6,11.0,False,60307
+106.0,Dunk,DEF,BHA,37.0,Youssef,2,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,11.2,2.9,0.0,1.4,2.0,False,83299
+107.0,March,MID,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,109345
+108.0,Webster,DEF,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,110735
+109.0,Veltman,DEF,BHA,37.0,transfer market,,n/a,1.0,88.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,5.0,12.4,13.2,17.0,4.2,1.0,False,111478
+113.0,Sánchez,GK,BHA,37.0,Dani,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,215059
+114.0,Lamptey,DEF,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,232792
+115.0,Alzate,MID,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,235382
+116.0,Mac Allister,MID,BHA,37.0,Youssef,8,fielded,6.0,128.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0,37.4,85.2,9.0,13.2,6.0,False,243016
+117.0,Moder,MID,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,243505
+118.0,Mwepu,MID,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,423649
+119.0,Sarmiento,MID,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,441192
+120.0,Caicedo,MID,BHA,37.0,transfer market,,n/a,4.0,180.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,28.8,34.2,15.0,7.8,4.0,False,486672
+121.0,Richards,MID,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,209045
+122.0,Roberts,DEF,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,433589
+123.0,Undav,FWD,BHA,37.0,transfer market,,n/a,2.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.2,2.1,5.0,0.6,2.0,False,450434
+124.0,Mitoma,MID,BHA,37.0,Ali,9,fielded,7.0,178.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,28.6,62.8,106.0,19.7,7.0,False,451340
+125.0,Enciso,FWD,BHA,37.0,Sami,11,fielded,8.0,96.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,32.0,41.6,13.0,25.0,8.0,8.0,False,474120
+126.0,Kozłowski,MID,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,484658
+149.0,Gilmour,MID,BHA,37.0,transfer market,,n/a,2.0,52.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,8.2,2.5,17.0,2.8,2.0,False,243568
+542.0,Scherpen,GK,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,240514
+543.0,Clarke,DEF,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,178173
+544.0,Van Hecke,DEF,BHA,37.0,transfer market,,n/a,2.0,91.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,12.0,9.2,0.7,0.0,1.0,2.0,False,469142
+559.0,Colwill,DEF,BHA,37.0,transfer market,,n/a,12.0,178.0,0.0,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,50.0,58.6,33.7,8.0,10.0,12.0,True,460028
+586.0,Estupiñán,DEF,BHA,37.0,Sami,2,fielded,4.0,180.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0,37.6,77.8,23.0,13.9,4.0,False,204214
+598.0,Ferguson,FWD,BHA,37.0,Sami,10,fielded,14.0,102.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,55.0,66.0,1.9,78.0,14.6,14.0,True,487117
+639.0,Turns,DEF,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,448496
+651.0,Moran,MID,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,513834
+652.0,Furlong,DEF,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,440123
+676.0,Hinshelwood,MID,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,532529
+679.0,Buonanotte,MID,BHA,37.0,transfer market,,n/a,2.0,119.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,9.0,17.8,16.7,51.0,8.5,2.0,False,536916
+719.0,Ayari,MID,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,509416
+737.0,Offiah,DEF,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,445548
+756.0,McGill,GK,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,209288
+762.0,Peupion,MID,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,491598
+765.0,Samuels,DEF,BHA,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,447720
+110.0,Maupay,FWD,EVE,37.0,transfer market,,n/a,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.3,6.0,0.6,1.0,False,115382
+176.0,Begović,GK,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40349
+177.0,Rondón,FWD,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,57134
+178.0,Coleman,DEF,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,59949
+179.0,Townsend,MID,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,60252
+180.0,Keane,DEF,EVE,37.0,transfer market,,n/a,7.0,61.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,21.0,25.4,16.6,6.0,4.8,7.0,False,106611
+181.0,Dele,MID,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,108823
+182.0,Pickford,GK,EVE,37.0,transfer market,,n/a,3.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,16.0,35.2,0.0,0.0,3.5,3.0,False,111234
+183.0,Allan,MID,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,119765
+184.0,André Gomes,MID,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,120250
+185.0,A.Doucouré,MID,EVE,37.0,Santi,8,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,4.6,14.8,6.0,2.5,2.0,False,121599
+186.0,Iwobi,MID,EVE,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,18.6,18.6,17.0,5.4,2.0,False,153133
+187.0,Gbamin,MID,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,160987
+188.0,Mina,DEF,EVE,37.0,transfer market,,n/a,10.0,90.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,21.0,41.0,11.5,52.0,10.5,10.0,True,164511
+189.0,Gray,MID,EVE,37.0,transfer market,,n/a,1.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,15.4,32.8,16.0,6.4,1.0,False,172632
+190.0,Davies,MID,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,173807
+191.0,Calvert-Lewin,FWD,EVE,37.0,Yahya,9,fielded,1.0,45.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-2.0,0.0,1.9,19.0,2.1,1.0,False,177815
+192.0,Holgate,DEF,EVE,37.0,transfer market,,n/a,1.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.4,10.4,0.0,1.3,1.0,False,194164
+193.0,Godfrey,DEF,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,198826
+194.0,Mykolenko,DEF,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,224967
+196.0,Branthwaite,DEF,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,480455
+197.0,Patterson,DEF,EVE,37.0,transfer market,,n/a,1.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.8,1.3,2.0,0.5,1.0,False,243571
+198.0,Nkounkou,DEF,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,495542
+199.0,Tarkowski,DEF,EVE,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,14.0,0.7,16.0,3.1,2.0,False,17761
+475.0,Coady,DEF,EVE,37.0,Yahya,15,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,94147
+531.0,Vinagre,DEF,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,216054
+534.0,McNeil,MID,EVE,37.0,Santi,5,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,21.2,29.4,0.0,5.1,2.0,False,433154
+560.0,Mills,MID,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,510328
+561.0,Warrington,MID,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,461453
+571.0,Garner,MID,EVE,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,9.0,5.8,24.2,1.0,3.1,1.0,False,232928
+577.0,Onana,MID,EVE,37.0,transfer market,,n/a,2.0,81.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,9.0,17.5,6.0,3.3,2.0,False,449871
+606.0,Welch,DEF,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,474907
+611.0,Gueye,MID,EVE,37.0,transfer market,,n/a,2.0,81.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,3.6,14.3,1.0,1.9,2.0,False,80801
+627.0,Jakupović,GK,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,11974
+636.0,John,DEF,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,232829
+662.0,Cannon,FWD,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,461416
+678.0,Price,MID,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,491559
+686.0,Simms,FWD,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,218997
+757.0,Samuels-Smith,DEF,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,536238
+760.0,Lonergan,GK,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,11948
+768.0,McAllister,MID,EVE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,486623
+162.0,Butland,GK,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,105666
+326.0,Ronaldo,FWD,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,14937
+327.0,De Gea,GK,MUN,37.0,Youssef,1,fielded,10.0,180.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,43.0,63.6,0.0,0.0,6.4,10.0,False,51940
+328.0,Jones,DEF,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,76359
+329.0,Varane,DEF,MUN,37.0,Dani,2,fielded,8.0,180.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,25.4,8.8,2.0,3.7,8.0,False,90152
+330.0,Maguire,DEF,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,95658
+331.0,Fred,MID,MUN,37.0,transfer market,,n/a,2.0,24.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,15.6,21.1,2.0,3.9,2.0,False,101582
+332.0,Shaw,DEF,MUN,37.0,Ali,3,fielded,10.0,135.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,42.0,24.0,22.2,4.0,5.1,10.0,True,106760
+333.0,Fernandes,MID,MUN,37.0,Shrey,6,fielded,11.0,175.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41.0,53.0,69.4,63.0,18.6,11.0,False,141746
+334.0,Telles,DEF,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,152590
+335.0,Rashford,MID,MUN,37.0,Ali,8,fielded,7.0,61.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,46.6,24.7,76.0,14.7,7.0,False,176297
+336.0,Van de Beek,MID,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,180184
+337.0,Lindelöf,DEF,MUN,37.0,Sami,4,fielded,8.0,180.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46.0,48.0,2.6,0.0,5.1,8.0,False,184667
+338.0,McTominay,MID,MUN,37.0,transfer market,,n/a,2.0,8.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,10.6,10.5,24.0,4.5,2.0,False,195851
+339.0,Bailly,DEF,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,197365
+340.0,Sancho,MID,MUN,37.0,Shrey,7,fielded,10.0,161.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,50.0,40.8,85.3,29.0,15.5,10.0,False,209243
+341.0,Wan-Bissaka,DEF,MUN,37.0,Ali,2,fielded,8.0,180.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0,35.4,17.4,22.0,7.5,8.0,False,214590
+342.0,Dalot,DEF,MUN,37.0,Shrey,13,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,216051
+343.0,B.Williams,DEF,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,232937
+344.0,Elanga,MID,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,449434
+345.0,Martial,FWD,MUN,37.0,transfer market,,n/a,8.0,125.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,37.0,44.8,20.5,49.0,11.5,8.0,False,148225
+347.0,Pellistri,MID,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,488404
+348.0,Heaton,GK,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,21205
+504.0,Malacia,DEF,MUN,37.0,transfer market,,n/a,0.0,45.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,5.6,12.0,4.0,2.2,0.0,False,222690
+519.0,Eriksen,MID,MUN,37.0,transfer market,,n/a,14.0,154.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,47.0,40.6,51.4,34.0,12.6,14.0,True,80607
+533.0,Martínez,DEF,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,221820
+550.0,Amad,MID,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,493250
+551.0,Iqbal,MID,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,461548
+570.0,Garnacho,MID,MUN,37.0,transfer market,,n/a,2.0,38.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.2,14.3,50.0,7.0,2.0,False,493105
+593.0,Casemiro,MID,MUN,37.0,Ruslan,7,fielded,16.0,180.0,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,61.0,108.6,41.6,66.0,21.6,16.0,True,61256
+609.0,Antony,MID,MUN,37.0,Sami,7,fielded,4.0,113.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,3.2,19.5,16.0,3.7,4.0,False,467169
+615.0,Kovár,GK,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,446189
+643.0,Mainoo,MID,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,516895
+656.0,Bishop,GK,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,250370
+661.0,Shoretire,FWD,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,472464
+674.0,Bennett,DEF,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,515500
+702.0,Weghorst,FWD,MUN,37.0,Dani,10,fielded,1.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,6.6,17.4,19.0,4.3,1.0,False,120202
+728.0,Sabitzer,MID,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,101338
+759.0,Jurado,DEF,MUN,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,518467
+195.0,Gordon,MID,NEW,37.0,transfer market,,n/a,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,False,232826
+350.0,Ritchie,DEF,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56983
+351.0,Fernández,DEF,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,57145
+352.0,Clark,DEF,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,58845
+353.0,Darlow,GK,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,59735
+355.0,Dubravka,GK,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,67089
+356.0,Wilson,FWD,NEW,37.0,Santi,10,fielded,2.0,67.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-4.0,0.0,0.3,31.0,2.6,2.0,False,75115
+357.0,Trippier,DEF,NEW,37.0,Sami,5,fielded,9.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,34.0,20.8,55.3,2.0,7.8,9.0,False,77794
+358.0,Burn,DEF,NEW,37.0,Shrey,4,fielded,8.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,26.0,13.4,14.4,6.0,3.4,8.0,False,78916
+359.0,Fraser,MID,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,90105
+360.0,Lascelles,DEF,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,101148
+361.0,Gayle,FWD,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,104547
+362.0,Dummett,DEF,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,106618
+363.0,Manquillo,DEF,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,109528
+364.0,Krafth,DEF,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,111773
+365.0,Murphy,MID,NEW,37.0,transfer market,,n/a,1.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.4,1.3,0.0,0.3,1.0,False,114243
+366.0,Schär,DEF,NEW,37.0,Youssef,5,fielded,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,21.0,29.5,11.0,6.2,6.0,False,119471
+367.0,Targett,DEF,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,169359
+368.0,Saint-Maximin,MID,NEW,37.0,transfer market,,n/a,1.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.4,12.3,4.0,2.3,1.0,False,170137
+369.0,Almirón,MID,NEW,37.0,Youssef,9,fielded,3.0,87.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.0,21.6,32.0,5.6,3.0,False,179018
+370.0,S.Longstaff,MID,NEW,37.0,transfer market,,n/a,3.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,3.4,16.3,31.0,5.1,3.0,False,180135
+371.0,Joelinton,MID,NEW,37.0,Shrey,15,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,180974
+372.0,Lewis,DEF,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,194799
+373.0,Willock,MID,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,200089
+374.0,Bruno Guimarães,MID,NEW,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,9.0,18.8,49.8,11.0,8.0,2.0,False,208706
+375.0,Hendrick,MID,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,83314
+376.0,Pope,GK,NEW,37.0,Santi,1,fielded,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,23.0,9.4,0.0,0.0,0.9,6.0,False,98747
+377.0,Botman,DEF,NEW,37.0,Dani,3,fielded,8.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,26.0,14.2,13.8,4.0,3.2,8.0,False,220237
+552.0,Anderson,MID,NEW,37.0,transfer market,,n/a,3.0,76.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,5.8,16.8,17.0,4.0,3.0,False,215379
+555.0,Ashby,DEF,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,441024
+594.0,Isak,FWD,NEW,37.0,Ali,10,fielded,1.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,9.6,34.0,4.3,1.0,False,219168
+626.0,Karius,GK,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,104542
+681.0,Kuol,MID,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,564510
+741.0,Miley,MID,NEW,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,547719
+221.0,Cooper,DEF,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,55914
+222.0,Ayling,DEF,LEE,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,15.8,1.7,6.0,2.4,1.0,False,66588
+223.0,Klich,MID,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,72222
+224.0,Forshaw,MID,LEE,37.0,transfer market,,n/a,2.0,61.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,15.8,0.0,2.2,2.0,False,80179
+225.0,Rodrigo,MID,LEE,37.0,transfer market,,n/a,6.0,90.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,22.0,34.4,0.9,30.0,6.5,6.0,False,80954
+226.0,Dallas,DEF,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,87873
+227.0,Bamford,FWD,LEE,37.0,transfer market,,n/a,1.0,33.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.2,0.5,6.0,0.8,1.0,False,106617
+228.0,Llorente,DEF,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,149915
+229.0,Roberts,MID,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,173821
+230.0,Koch,DEF,LEE,37.0,transfer market,,n/a,0.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,7.0,17.4,12.3,26.0,5.6,0.0,False,193645
+232.0,Raphinha,MID,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,219961
+233.0,Harrison,MID,LEE,37.0,transfer market,,n/a,2.0,61.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,8.2,20.7,18.0,4.7,2.0,False,221399
+234.0,Shackleton,MID,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,221610
+235.0,Struijk,DEF,LEE,37.0,transfer market,,n/a,1.0,83.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,20.4,15.8,0.0,3.6,1.0,False,222694
+236.0,Klaesson,GK,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,223081
+237.0,Greenwood,FWD,LEE,37.0,transfer market,,n/a,1.0,6.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.2,4.1,0.0,0.6,1.0,False,248937
+238.0,Meslier,GK,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,437495
+239.0,Firpo,DEF,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,443967
+240.0,Summerville,MID,LEE,37.0,transfer market,,n/a,0.0,28.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-3.0,0.0,0.3,15.0,1.4,0.0,False,450070
+241.0,Bate,MID,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,450529
+242.0,Gelhardt,FWD,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,462635
+243.0,Hjelde,DEF,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,477547
+244.0,Kristensen,DEF,LEE,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,17.6,0.9,0.0,1.9,1.0,False,224209
+245.0,Roca,MID,LEE,37.0,transfer market,,n/a,1.0,6.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,3.0,13.4,0.0,1.6,1.0,False,234370
+246.0,Aaronson,MID,LEE,37.0,transfer market,,n/a,1.0,28.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.8,0.9,8.0,1.2,1.0,False,427637
+247.0,Gyabi,MID,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,470294
+506.0,Adams,MID,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,200785
+508.0,Sinisterra,MID,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,224995
+549.0,Drameh,DEF,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,433590
+563.0,Gray,MID,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,547701
+578.0,Robles,GK,LEE,37.0,transfer market,,n/a,3.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,23.0,47.6,0.0,0.0,4.8,3.0,False,78315
+619.0,Gnonto,FWD,LEE,37.0,transfer market,,n/a,1.0,56.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,9.8,23.8,2.0,3.6,1.0,False,492859
+657.0,Mateo Joseph,FWD,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,565297
+663.0,Perkins,FWD,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,496228
+691.0,Wöber,DEF,LEE,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,26.4,0.3,0.0,2.7,1.0,False,220087
+701.0,Rutter,FWD,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,463067
+720.0,McKennie,MID,LEE,37.0,transfer market,,n/a,5.0,83.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,20.4,23.3,4.0,4.8,5.0,False,241519
+744.0,Chilokoa-Mullen,DEF,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,470296
+745.0,Monteiro,DEF,LEE,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,491008
+248.0,Schmeichel,GK,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,17745
+249.0,Evans,DEF,LEI,37.0,transfer market,,n/a,6.0,62.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0,29.8,0.0,0.0,3.0,6.0,False,37642
+250.0,Bertrand,DEF,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,40146
+251.0,Albrighton,MID,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,51938
+252.0,Mendy,MID,LEI,37.0,transfer market,,n/a,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.1,0.0,0.0,1.0,False,86881
+253.0,Vestergaard,DEF,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,93100
+254.0,Ward,GK,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,95463
+255.0,Vardy,FWD,LEI,37.0,Shrey,9,fielded,2.0,62.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,4.4,0.3,0.0,0.5,2.0,False,101668
+256.0,Ricardo,DEF,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,111931
+257.0,Amartey,DEF,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,155569
+258.0,Castagne,DEF,LEI,37.0,transfer market,,n/a,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,21.8,0.9,17.0,4.0,6.0,False,166477
+259.0,Tielemans,MID,LEI,37.0,Dani,5,fielded,3.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,17.2,1.0,2.0,2.0,3.0,False,166989
+260.0,Pérez,MID,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,168580
+261.0,Maddison,MID,LEI,37.0,transfer market,,n/a,1.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,8.6,18.0,0.0,2.7,1.0,False,172780
+262.0,Iheanacho,FWD,LEI,37.0,transfer market,,n/a,1.0,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.3,0.0,0.0,1.0,False,173515
+263.0,Choudhury,MID,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,197469
+264.0,Barnes,MID,LEI,37.0,Dani,7,fielded,1.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.4,0.7,0.0,0.1,1.0,False,201666
+265.0,Ndidi,MID,LEI,37.0,transfer market,,n/a,3.0,88.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,22.6,0.6,0.0,2.3,3.0,False,203341
+266.0,Dewsbury-Hall,MID,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,215413
+267.0,Söyüncü,DEF,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,218031
+268.0,Justin,DEF,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,220627
+269.0,Soumaré,MID,LEI,37.0,transfer market,,n/a,3.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,9.0,3.7,0.0,1.3,3.0,False,225902
+270.0,Thomas,DEF,LEI,37.0,transfer market,,n/a,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,11.2,1.4,0.0,1.3,6.0,False,244619
+271.0,Daka,FWD,LEI,37.0,transfer market,,n/a,1.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.3,6.0,0.7,1.0,False,245419
+273.0,Brunt,DEF,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,232620
+547.0,Iversen,GK,LEI,37.0,transfer market,,n/a,9.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,26.0,19.8,0.0,0.0,2.0,9.0,False,207270
+548.0,Praet,MID,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,106837
+581.0,Smithies,GK,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,45220
+614.0,Faes,DEF,LEI,37.0,transfer market,,n/a,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,17.0,0.1,0.0,1.7,6.0,False,218218
+640.0,Braybrooke,MID,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,519223
+645.0,Wormleighton,DEF,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,514284
+687.0,McAteer,MID,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,461587
+709.0,Kristiansen,DEF,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,481510
+714.0,Tetê,MID,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,225295
+727.0,Souttar,DEF,LEI,37.0,transfer market,,n/a,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,23.0,0.3,0.0,2.3,6.0,False,194190
+738.0,Marçal-Madivadua,MID,LEI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,461584
+274.0,Milner,MID,LIV,37.0,transfer market,,n/a,1.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,7.2,5.1,4.0,1.6,1.0,False,15157
+275.0,Henderson,MID,LIV,37.0,transfer market,,n/a,2.0,71.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,5.8,18.5,2.0,2.6,2.0,False,56979
+276.0,Matip,DEF,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,60914
+277.0,Thiago,MID,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,61558
+278.0,Chamberlain,MID,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,81880
+279.0,Firmino,FWD,LIV,37.0,transfer market,,n/a,7.0,18.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,26.0,33.4,0.3,37.0,7.1,7.0,False,92217
+280.0,Van Dijk,DEF,LIV,37.0,Youssef,3,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,27.4,12.6,2.0,4.2,2.0,False,97032
+281.0,Alisson,GK,LIV,37.0,Shrey,1,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,14.0,18.2,0.0,0.0,1.8,2.0,False,116535
+282.0,Fabinho,MID,LIV,37.0,transfer market,,n/a,1.0,80.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,6.0,12.0,13.2,2.0,2.7,1.0,False,116643
+283.0,Salah,MID,LIV,37.0,Sami,9,fielded,5.0,90.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,24.4,21.0,64.0,10.9,5.0,False,118748
+284.0,Robertson,DEF,LIV,37.0,Ali,6,fielded,2.0,71.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,8.6,16.1,2.0,2.7,2.0,False,122798
+285.0,Alexander-Arnold,DEF,LIV,37.0,Sami,3,fielded,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,11.0,19.4,35.2,7.0,6.2,1.0,False,169187
+286.0,Gomez,DEF,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,171287
+287.0,Keita,MID,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,175592
+288.0,Diogo Jota,FWD,LIV,37.0,Yahya,10,fielded,1.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.4,7.6,8.0,1.8,1.0,False,194634
+289.0,Kelleher,GK,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,200720
+290.0,Konaté,DEF,LIV,37.0,Ruslan,3,fielded,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,13.0,10.0,2.0,7.0,1.9,1.0,False,204716
+291.0,Jones,MID,LIV,37.0,transfer market,,n/a,2.0,62.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,15.4,2.8,7.0,2.5,2.0,False,206915
+292.0,Tsimikas,DEF,LIV,37.0,transfer market,,n/a,1.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,6.2,11.6,0.0,1.8,1.0,False,214285
+293.0,Luis Díaz,MID,LIV,37.0,Ali,15,bench,2.0,71.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.2,2.5,17.0,2.3,2.0,False,244731
+294.0,Elliott,MID,LIV,37.0,transfer market,,n/a,1.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.2,1.6,9.0,1.8,1.0,False,444884
+296.0,Carvalho,MID,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244858
+297.0,Darwin,FWD,LIV,37.0,Sami,15,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,447203
+298.0,Ramsay,DEF,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,489580
+497.0,Adrián,GK,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,60706
+498.0,R.Williams,DEF,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,219937
+499.0,Davies,DEF,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,152898
+500.0,Van den Berg,DEF,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,444765
+501.0,Phillips,DEF,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,197464
+564.0,Chambers,DEF,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,462491
+565.0,Bajcetic,MID,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,535928
+584.0,Clark,MID,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,491970
+592.0,H.Davies,GK,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,464353
+620.0,Arthur,MID,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,204043
+664.0,Doak,MID,LIV,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,496208
+680.0,Gakpo,MID,LIV,37.0,Santi,13,bench,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,11.2,25.6,19.0,5.6,2.0,False,243298
+295.0,N.Williams,DEF,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,215136
+349.0,Shelvey,MID,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,50232
+354.0,Wood,FWD,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,60689
+378.0,Arter,MID,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,48615
+379.0,Cook,DEF,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,56917
+380.0,Lyle Taylor,FWD,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,57647
+381.0,Colback,MID,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,58771
+382.0,Samba,GK,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,102836
+383.0,Cafú,MID,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,166325
+384.0,Lolley,MID,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,168172
+385.0,McKenna,DEF,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,168281
+386.0,Dräger,DEF,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,173399
+387.0,Yates,MID,NFO,37.0,transfer market,,n/a,3.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,7.2,0.2,0.0,0.7,3.0,False,204968
+388.0,Worrall,DEF,NFO,37.0,transfer market,,n/a,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,11.2,0.1,4.0,1.5,6.0,False,208912
+389.0,Panzo,DEF,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,209035
+390.0,Xande Silva,MID,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,209925
+391.0,Surridge,FWD,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,217331
+392.0,Laryea,DEF,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,221403
+393.0,Mbe Soh,DEF,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,242885
+394.0,Johnson,FWD,NFO,37.0,Youssef,11,fielded,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,False,242898
+395.0,Mighten,MID,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244930
+396.0,Ojeda,MID,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,437476
+397.0,Awoniyi,FWD,NFO,37.0,Youssef,10,fielded,6.0,78.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,25.0,30.4,0.4,17.0,4.8,6.0,False,210156
+398.0,Henderson,GK,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,172649
+399.0,Biancone,DEF,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,437753
+474.0,Boly,DEF,NFO,37.0,transfer market,,n/a,1.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,False,90585
+493.0,Gibbs-White,MID,NFO,37.0,Santi,6,fielded,5.0,90.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,11.0,5.8,1.1,23.0,3.0,5.0,False,222531
+507.0,Niakhaté,DEF,NFO,37.0,transfer market,,n/a,5.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,18.0,10.0,0.9,2.0,1.3,5.0,False,199170
+511.0,Richards,DEF,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,204822
+518.0,Hennessey,GK,NFO,37.0,transfer market,,n/a,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1.0,False,20066
+524.0,Toffolo,DEF,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,114241
+525.0,O'Brien,MID,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,243345
+527.0,Lingard,MID,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,109322
+536.0,Mangala,MID,NFO,37.0,transfer market,,n/a,3.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,6.4,0.2,0.0,0.7,3.0,False,179519
+553.0,Hammond,MID,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,475492
+582.0,Freuler,MID,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,89076
+583.0,Kouyaté,MID,NFO,37.0,transfer market,,n/a,1.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,4.6,10.1,2.0,1.7,1.0,False,55037
+585.0,Dennis,FWD,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,230251
+602.0,Renan Lodi,DEF,NFO,37.0,transfer market,,n/a,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,10.6,0.3,3.0,1.4,6.0,False,233420
+621.0,Badé,DEF,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,500267
+628.0,Aurier,DEF,NFO,37.0,transfer market,,n/a,6.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.0,17.6,0.7,0.0,1.8,6.0,False,80226
+665.0,Dale Taylor,FWD,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,524069
+675.0,Smith,GK,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,184193
+682.0,Scarpa,MID,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,185253
+703.0,Danilo,MID,NFO,37.0,transfer market,,n/a,3.0,72.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,10.4,20.1,2.0,3.3,3.0,False,513046
+729.0,Navas,GK,NFO,37.0,transfer market,,n/a,9.0,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0,27.0,24.6,0.0,0.0,2.5,9.0,False,28411
+730.0,Felipe,DEF,NFO,37.0,transfer market,,n/a,9.0,78.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,28.0,12.6,10.3,11.0,3.4,9.0,False,116404
+734.0,A.Ayew,MID,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,45124
+748.0,G.Shelvey,GK,NFO,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,450197
+299.0,Walker,DEF,MCI,37.0,Ali,5,fielded,8.0,180.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.0,17.2,8.4,2.0,2.7,8.0,False,58621
+300.0,Gündogan,MID,MCI,37.0,Santi,7,fielded,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,12.4,16.8,5.0,3.4,2.0,False,59859
+301.0,De Bruyne,MID,MCI,37.0,Youssef,7,fielded,2.0,68.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,10.8,21.5,2.0,3.5,2.0,False,61366
+302.0,Stones,DEF,MCI,37.0,Shrey,2,fielded,3.0,116.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0,31.8,11.5,2.0,4.6,3.0,False,97299
+303.0,Mahrez,MID,MCI,37.0,Shrey,5,fielded,5.0,163.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0,18.8,49.9,18.0,8.6,5.0,False,103025
+305.0,Grealish,MID,MCI,37.0,Ali,13,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,114283
+306.0,Cancelo,DEF,MCI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,121145
+307.0,Ederson,GK,MCI,37.0,Yahya,1,fielded,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,121160
+308.0,Aké,DEF,MCI,37.0,Dani,13,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,126184
+309.0,Laporte,DEF,MCI,37.0,transfer market,,n/a,6.0,77.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,15.2,2.4,0.0,1.8,6.0,False,146941
+310.0,Steffen,GK,MCI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,164484
+311.0,Bernardo,MID,MCI,37.0,Yahya,5,fielded,1.0,83.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,15.0,19.0,35.2,4.0,5.8,1.0,False,165809
+312.0,Dias,DEF,MCI,37.0,Youssef,14,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,171314
+314.0,Foden,MID,MCI,37.0,Ali,7,fielded,12.0,140.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,39.0,48.6,58.9,50.0,15.8,12.0,False,209244
+315.0,Rodri,MID,MCI,37.0,transfer market,,n/a,3.0,102.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,18.6,1.5,0.0,2.1,3.0,False,220566
+316.0,Palmer,MID,MCI,37.0,transfer market,,n/a,7.0,129.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0,32.8,20.4,45.0,9.9,7.0,False,244851
+317.0,McAtee,MID,MCI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,432714
+318.0,Haaland,FWD,MCI,37.0,Ali,11,fielded,6.0,106.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,11.6,23.2,54.0,8.7,6.0,False,223094
+319.0,Álvarez,FWD,MCI,37.0,Santi,9,fielded,9.0,123.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,32.0,43.4,38.8,46.0,12.9,9.0,False,461358
+320.0,Mbete,DEF,MCI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,439510
+322.0,Wilson-Esbrand,DEF,MCI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,447880
+323.0,Delap,FWD,MCI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,463034
+324.0,Ortega,GK,MCI,37.0,transfer market,,n/a,16.0,180.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,12.0,4.0,60.0,94.4,0.0,0.0,9.5,16.0,True,88248
+325.0,Phillips,MID,MCI,37.0,transfer market,,n/a,4.0,96.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,14.8,25.1,9.0,4.9,4.0,False,155405
+502.0,Carson,GK,MCI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,17601
+569.0,Lewis,DEF,MCI,37.0,Ruslan,5,fielded,8.0,180.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41.0,24.4,19.0,9.0,5.2,8.0,False,477064
+587.0,Sergio Gómez,DEF,MCI,37.0,transfer market,,n/a,8.0,83.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,30.0,5.6,15.9,3.0,2.5,8.0,False,437468
+600.0,Gomes,MID,MCI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,219291
+601.0,Knight,MID,MCI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,244932
+608.0,Akanji,DEF,MCI,37.0,Ali,4,fielded,1.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,9.0,1.5,0.0,1.1,1.0,False,211975
+712.0,Perrone,MID,MCI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482769
+772.0,Robertson,MID,MCI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,434043
+773.0,Charles,MID,MCI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,463210
+774.0,O'Reilly,MID,MCI,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,472769
+425.0,Lloris,GK,TOT,37.0,Shrey,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,37915
+426.0,Forster,GK,TOT,37.0,Ali,1,fielded,1.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,9.0,8.0,0.0,0.0,0.8,1.0,False,40383
+427.0,Kane,FWD,TOT,37.0,Yahya,11,fielded,7.0,90.0,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,34.0,36.0,17.2,30.0,8.3,7.0,False,78830
+428.0,Son,MID,TOT,37.0,Shrey,8,fielded,2.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,24.0,57.7,33.0,11.5,2.0,False,85971
+429.0,Doherty,DEF,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,87835
+430.0,Dier,DEF,TOT,37.0,Dani,15,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,93264
+431.0,Lucas Moura,MID,TOT,37.0,transfer market,,n/a,1.0,24.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,12.4,13.0,2.5,1.0,False,95715
+432.0,Davies,DEF,TOT,37.0,transfer market,,n/a,1.0,84.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,18.0,19.8,0.0,3.8,1.0,False,115556
+433.0,Højbjerg,MID,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,132015
+434.0,Winks,MID,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,157668
+435.0,Sánchez,DEF,TOT,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,19.2,2.4,4.0,2.6,1.0,False,173904
+436.0,R.Sessegnon,DEF,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,184349
+437.0,Bergwijn,MID,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,194252
+438.0,Reguilón,DEF,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,199249
+439.0,Tanganga,DEF,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,199584
+440.0,Bentancur,MID,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,202993
+441.0,Skipp,MID,TOT,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,1.2,4.4,0.0,0.6,2.0,False,209042
+442.0,Rodon,DEF,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,214225
+443.0,Romero,DEF,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,221632
+444.0,Bissouma,MID,TOT,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,9.0,7.0,6.9,0.0,1.4,1.0,False,227127
+445.0,Emerson Royal,DEF,TOT,37.0,transfer market,,n/a,1.0,74.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,2.5,9.0,1.9,1.0,False,241157
+446.0,Kulusevski,MID,TOT,37.0,transfer market,,n/a,5.0,74.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,26.6,60.6,21.0,10.8,5.0,False,445044
+447.0,Scarlett,FWD,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,490145
+448.0,Perišić,DEF,TOT,37.0,Shrey,3,fielded,1.0,5.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.2,1.1,0.0,0.1,1.0,False,45034
+449.0,White,MID,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,448791
+450.0,Sarr,MID,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,482442
+451.0,Austin,GK,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,214572
+452.0,Devine,MID,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,496179
+453.0,Parrott,FWD,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,447235
+454.0,Richarlison,FWD,TOT,37.0,transfer market,,n/a,1.0,15.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,11.0,11.3,73.0,9.5,1.0,False,212319
+513.0,Lenglet,DEF,TOT,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,21.8,2.2,5.0,2.9,1.0,False,171101
+522.0,Spence,DEF,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,232859
+554.0,Bryan,MID,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,436234
+716.0,Danjuma,MID,TOT,37.0,transfer market,,n/a,2.0,65.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.8,6.0,0.6,2.0,False,220307
+733.0,Pedro Porro,DEF,TOT,37.0,Santi,4,fielded,1.0,15.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,9.6,34.8,8.0,5.2,1.0,False,441164
+749.0,Mundle,MID,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,461199
+758.0,Abbott,MID,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,519327
+764.0,Craig,MID,TOT,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,461201
+459.0,Dawson,DEF,WOL,37.0,Santi,15,bench,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,13.0,26.4,0.3,0.0,2.7,1.0,False,60232
+476.0,Jiménez,FWD,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,102057
+477.0,Jonny,DEF,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,114128
+478.0,Sá,GK,WOL,37.0,Sami,12,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,149065
+480.0,Neves,MID,WOL,37.0,transfer market,,n/a,2.0,87.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,6.0,12.0,11.6,4.0,2.8,2.0,False,171317
+481.0,Hwang,MID,WOL,37.0,transfer market,,n/a,11.0,73.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,22.0,37.0,2.8,25.0,6.5,11.0,False,184754
+482.0,Semedo,DEF,WOL,37.0,transfer market,,n/a,1.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,6.2,0.9,5.0,1.2,1.0,False,200402
+483.0,Podence,MID,WOL,37.0,transfer market,,n/a,3.0,69.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,21.3,9.0,3.0,3.0,False,200600
+484.0,Kilman,DEF,WOL,37.0,Shrey,14,bench,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,214048
+485.0,Cundle,MID,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,245923
+486.0,Neto,MID,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,247632
+487.0,Aït-Nouri,DEF,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,448514
+488.0,Fabio Silva,FWD,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,449988
+489.0,Toti,DEF,WOL,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,19.4,15.8,0.0,3.5,2.0,False,510362
+490.0,Chiquinho,MID,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,510363
+491.0,Adama,MID,WOL,37.0,transfer market,,n/a,5.0,87.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,11.0,11.8,22.3,25.0,5.9,5.0,False,159533
+492.0,Šarkić,GK,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,216208
+494.0,Mosquera,DEF,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,501837
+503.0,Moutinho,MID,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,19624
+516.0,Collins,DEF,WOL,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,19.2,0.3,0.0,2.0,2.0,False,432830
+557.0,Smith,GK,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,246799
+558.0,Bueno,DEF,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,490721
+566.0,Hodge,MID,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,240299
+567.0,Ronan,MID,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,198842
+568.0,Campbell,MID,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,461026
+579.0,Guedes,MID,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,181284
+589.0,Matheus,MID,WOL,37.0,transfer market,,n/a,0.0,20.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,-2.0,7.6,0.0,17.0,2.5,0.0,False,465351
+610.0,Kalajdžić,FWD,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,429414
+625.0,Diego Costa,FWD,WOL,37.0,transfer market,,n/a,1.0,20.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.6,1.6,17.0,2.2,1.0,False,18507
+629.0,Traoré,MID,WOL,37.0,transfer market,,n/a,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.6,0.0,0.0,0.2,1.0,False,476502
+658.0,Fraser,FWD,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,531363
+659.0,Griffiths,MID,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,449133
+666.0,Lembikisa,DEF,WOL,37.0,transfer market,,n/a,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,492776
+683.0,Cunha,FWD,WOL,37.0,transfer market,,n/a,1.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.4,10.3,0.0,1.4,1.0,False,430871
+698.0,Lemina,MID,WOL,37.0,transfer market,,n/a,1.0,16.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0,0.3,0.0,0.2,1.0,False,151086
+704.0,Sarabia,MID,WOL,37.0,transfer market,,n/a,3.0,69.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.8,6.7,9.0,1.9,3.0,False,88484
+717.0,Bentley,GK,WOL,37.0,transfer market,,n/a,3.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,20.0,18.0,0.0,0.0,1.8,3.0,False,79602
+721.0,João Gomes,MID,WOL,37.0,transfer market,,n/a,2.0,90.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,10.0,1.3,17.0,2.8,2.0,False,448089

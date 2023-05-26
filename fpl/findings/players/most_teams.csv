@@ -4,6 +4,7 @@ Sancho,MUN,209243,5
 Edouard,CRY,199670,4
 Eriksen,MUN,80607,4
 Gündogan,MCI,59859,4
+Jensen,BRE,207283,4
 Martial,MUN,148225,4
 Martínez,MUN,221820,4
 Walker,MCI,58621,4
@@ -23,17 +24,19 @@ Groß,BHA,60307,3
 Henry,BRE,194010,3
 Isak,NEW,219168,3
 Iwobi,EVE,153133,3
-Jensen,BRE,207283,3
 Koulibaly,CHE,86129,3
 Kulusevski,TOT,445044,3
 Mac Allister,BHA,243016,3
 Olise,CRY,443661,3
 Ouattara,BOU,533463,3
 Paquetá,WHU,224024,3
+Pedro Porro,TOT,441164,3
 Pickford,EVE,111234,3
+Pinnock,BRE,231065,3
 Robertson,LIV,122798,3
 Rodrigo,LEE,80954,3
 Saint-Maximin,NEW,170137,3
+Sterling,CHE,103955,3
 Tielemans,LEI,166989,3
 Varane,MUN,90152,3
 Wan-Bissaka,MUN,214590,3
@@ -82,6 +85,7 @@ Jorginho,ARS,85955,2
 Kelly,BOU,235530,2
 Kilman,WOL,214048,2
 Lewis,MCI,477064,2
+Luis Díaz,LIV,244731,2
 Maddison,LEI,172780,2
 Mahrez,MCI,103025,2
 Malacia,MUN,222690,2
@@ -98,10 +102,9 @@ Mykolenko,EVE,224967,2
 Neves,WOL,171317,2
 Nketiah,ARS,205533,2
 Nørgaard,BRE,128295,2
-Pedro Porro,TOT,441164,2
 Perišić,TOT,45034,2
-Pinnock,BRE,231065,2
 Podence,WOL,200600,2
+Ramsey,AVL,232653,2
 Rice,WHU,204480,2
 Richarlison,TOT,212319,2
 Rodri,MCI,220566,2
@@ -112,7 +115,6 @@ Semedo,WOL,200402,2
 Solanke,BOU,154566,2
 Son,TOT,85971,2
 Steele,BHA,49262,2
-Sterling,CHE,103955,2
 Struijk,LEE,222694,2
 Tete,FUL,167074,2
 Toney,BRE,144485,2
@@ -139,6 +141,7 @@ Alonso,CHE,82263,1
 Amartey,LEI,155569,1
 Andreas,FUL,156689,1
 Aubameyang,CHE,54694,1
+Awoniyi,NFO,210156,1
 Badiashile,CHE,242880,1
 Bailey,AVL,215711,1
 Bazunu,SOU,456350,1
@@ -199,12 +202,12 @@ Laporte,MCI,146941,1
 Leno,FUL,80201,1
 Lindelöf,MUN,184667,1
 Lloris,TOT,37915,1
-Luis Díaz,LIV,244731,1
 Madueke,CHE,248857,1
 Martinelli,ARS,444145,1
 Matip,LIV,60914,1
 Maupay,EVE,115382,1
 Mbeumo,BRE,446008,1
+McNeil,EVE,433154,1
 Mee,BRE,51927,1
 Mendy,CHE,228286,1
 Mitrović,FUL,128389,1
@@ -217,7 +220,6 @@ Perraud,SOU,244560,1
 Pope,NEW,98747,1
 R.Sessegnon,TOT,184349,1
 Ramsdale,ARS,225321,1
-Ramsey,AVL,232653,1
 Rashford,MUN,176297,1
 Raya,BRE,154561,1
 Ream,FUL,82514,1
@@ -251,6 +253,7 @@ Vardy,LEI,101668,1
 Vinícius,FUL,245824,1
 W.Fofana,CHE,444463,1
 Ward,LEI,95463,1
+Ward,CRY,55494,1
 Webster,BHA,110735,1
 Wilson,FUL,153682,1
 Wissa,BRE,216646,1
