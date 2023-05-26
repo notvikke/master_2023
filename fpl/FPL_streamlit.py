@@ -48,6 +48,20 @@ def display_podium(title,df,column=1,value="pts"):
         st.subheader("💩",)
         st.text("{}: {} {}".format(df.loc[len(df)-1, "manager"], round(df.iloc[len(df)-1, column]),value))
 
+def show_pics(data,num, points=False):
+    st.image("https://resources.premierleague.com/premierleague/photos/players/110x140/p{}.png".format(data.loc[num,"photo"]))
+    if data.loc[num,"player_id"]==32:
+        st.markdown("{} ✅".format(data.loc[num,"player_name"]))
+    else:
+        st.markdown("{}".format(data.loc[num,"player_name"]))
+    
+    st.markdown("{} gameweeks".format(data.loc[num,"player_id"]))
+
+    if points=="total":
+        st.success("{} points total".format(data.loc[num,"points"]))
+    elif points=="average":
+        st.success("{} points per game".format(round(data.loc[num,"points"]/data.loc[num,"player_id"],2)))
+
 def points():
     # Basic text elements in streamlit
     st.header("This is a header")
@@ -445,11 +459,89 @@ def points():
 
 def players():
     st.subheader("Players Page")
-    st.markdown("Some facts about players in the AKOYA league")
+    st.markdown("Some individual and group facts about players in the AKOYA league. Please choose a manager in the sidebar")
 
+    st.sidebar.markdown("Choose a manager")
+    manager = st.sidebar.selectbox("Choose Manager", ("Ali","Ruslan","Sami","Yahya","Youssef","Santi","Shrey","Dani"))
+
+    st.markdown(" ")
     st.info("Choosing who to have in your team was hard, unless you just chose Arsenal players and called it a day")
     st.info("Let's first look at who has stuck with you through thick and thin, and ask yourself why Ali was such a lucky bitch for getting Haaland as his first pick. Let's look at...")
     st.header("Loyalty")
+    st.markdown("The players you've owned the longest")
+
+    #region Loyalty
+    data = pd.read_csv('findings/players/loyalty.csv')
+
+    manager_df = data[data["manager"]==manager].sort_values("player_id",ascending=False).reset_index(drop=True).iloc[:10]
+    cols = st.columns(5)
+
+    for i in range(5):
+        with cols[i]:
+            show_pics(manager_df,i)
+            show_pics(manager_df,i+5)
+    #endregion
+    
+    st.header("UnLoyalty")
+    st.markdown("The opposite of the last one")
+
+    #region Unloyalty?
+    manager_df = data[data["manager"]==manager].sort_values("player_id",ascending=True).reset_index(drop=True).iloc[:10]
+    cols = st.columns(5)
+
+    for i in range(5):
+        with cols[i]:
+            show_pics(manager_df,i)
+    #endregion
+
+    st.header("Most Played")
+    st.markdown("The players you've fielded the most")
+
+    #region Most Played
+    data = pd.read_csv('findings/players/most_played.csv')
+    manager_df_full = data[data["manager"]==manager].reset_index(drop=True).sort_values("player_id",ascending=False)
+    manager_df = manager_df_full[:10]
+    tab1, tab2 = st.tabs(["Points Total","Points per Game"])
+
+    with tab1:
+        tab1_cols = st.columns(5)
+        for i in range(5):
+            with tab1_cols[i]:
+                show_pics(manager_df,i,"total")
+                show_pics(manager_df,i+5,"total")
+                
+    with tab2:
+        tab2_cols = st.columns(5)
+        for i in range(5):
+            with tab2_cols[i]:
+                show_pics(manager_df,i,"average")
+                show_pics(manager_df,i+5,"average")
+
+    #endregion
+    
+    st.info("We've seen the players that have been most in ONE team, now let's look at the players that have been in MOST teams")
+
+    st.header("Most Teams")
+    st.markdown("What I just said")
+
+    #region Most Teams
+    most_teams = pd.read_csv('findings/players/most_teams.csv')[:8]
+
+    cols = st.columns(4)
+
+    for i in range(4):
+        with cols[i]:
+            st.image("https://resources.premierleague.com/premierleague/photos/players/110x140/p{}.png".format(most_teams.loc[i,"photo"]))
+            st.markdown("{}".format(most_teams.loc[i,"player_name"]))
+            st.markdown("in {} teams".format(most_teams.loc[i,"0"]))    
+
+
+            if most_teams.loc[i,"player_name"] in manager_df_full["player_name"]:
+                row = manager_df_full[manager_df_full["player_name"]==most_teams.loc[i,"player_name"]]
+                st.markdown("{} gameweeks in your team".format(row["player_id"]))
+                st.success("{} points total".format(row["player_id"]))
+    #endregion
+
 
 def stats():
     st.subheader("Genneral Statistics Page")
@@ -470,7 +562,8 @@ pages = {
 def main():
     st.title("AKOYA FPL Draft Wrapped")
     st.markdown("Let's look back at this season")
-    multiline_text = """Please navigate this Akoya Wrapped with the sidebar. \n
+    multiline_text = """\n
+    Please navigate this Akoya Wrapped with the sidebar.\n
     You can choose between four types of insights:\n
     'Points', 'Players', 'Stats', and 'Trades'"""
     st.info(multiline_text)
