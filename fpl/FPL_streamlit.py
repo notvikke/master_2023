@@ -76,6 +76,7 @@ def show_most_teams(data, num, data2):
         st.markdown(" ")
         st.warning("Never in your team")
 
+
 def points():
     # Basic text elements in streamlit
     st.header("This is a header")
@@ -578,9 +579,9 @@ def players():
     st.markdown("A few stats based on how many players from a single club one has fielded")
 
     #region Club Mascot
-    data = pd.read_csv('findings/players/club_mascot.csv')
-    fielded = data[data["manager"]==manager].sort_values("fielded",ascending=False).reset_index(drop=True)
-    ppg = data[(data["manager"]==manager)&(data["fielded"]>15)].sort_values("ppg",ascending=False).reset_index(drop=True)
+    mascot = pd.read_csv('findings/players/club_mascot.csv')
+    fielded = mascot[mascot["manager"]==manager].sort_values("fielded",ascending=False).reset_index(drop=True)
+    ppg = mascot[(mascot["manager"]==manager)&(mascot["fielded"]>15)].sort_values("ppg",ascending=False).reset_index(drop=True)
 
     tab1, tab2 = st.tabs(["Most Fielded","Points per Game"])
     
@@ -608,6 +609,38 @@ def players():
     #endregion
     
     st.header("Star Players")
+
+    #region Star Players
+    data = pd.read_csv('findings/players/most_played.csv')
+    total_points = data[data["manager"]==manager].sort_values("points",ascending=False).reset_index(drop=True)[:3]
+    ppg = data[(data["manager"]==manager)&(data["player_id"]>5)].sort_values("ppg",ascending=False).reset_index(drop=True)[:3]
+
+    tab1, tab2 = st.tabs(["Points Total","Points per Game*"])
+
+    with tab1:
+        tab1_cols = st.columns(3)
+        for i in range(3):
+            with tab1_cols[i]:
+                print_pic(total_points,i)
+                row = total_points.loc[i]
+                percentage = round(row["points"]/int(real_ranking[real_ranking["manager"]==manager]["points"].values[0]),2)
+                st.markdown("{}".format(row["player_name"]))
+                st.markdown("Scored {} total points".format(row["points"]))
+                st.success("{}% of total points".format(percentage*100))
+    
+    with tab2:
+        tab2_cols = st.columns(3)
+        for i in range(3):
+            with tab2_cols[i]:
+                print_pic(ppg,i)
+                row = ppg.loc[i]
+                percentage = round(row["points"]/int(real_ranking[real_ranking["manager"]==manager]["points"].values[0]),2)
+                st.markdown("{}".format(row["player_name"]))
+                st.markdown("Scored {} points per game".format(row["ppg"]))
+                st.success("{}% of total points".format(percentage*100))
+        
+        st.markdown("*Must have played at least 5 games")
+    #endregion
 
 
 def stats():
