@@ -76,6 +76,47 @@ def show_most_teams(data, num, data2):
         st.markdown(" ")
         st.warning("Never in your team")
 
+def display_stats(df, column, titles, metric):
+    df = df[["manager_id",column]]
+    df = df.sort_values(column,ascending=False).reset_index(drop=True,)
+    
+    win_manager = df.loc[0, "manager_id"]
+    loss_manager = df.loc[len(df)-1, "manager_id"]
+
+    st.subheader(titles)
+    tab1, tab2, tab3 = st.tabs(["Most","Least","Table"])
+    with tab1:
+        if df.loc[0, column]==df.loc[1, column]:
+            tied_manager= df.loc[1, "manager_id"]
+            cols1,cols2 = st.columns(2)
+            with cols1:
+                st.image("pictures/{}.png".format(win_manager),width=80)
+            with cols2:
+                st.image("pictures/{}.png".format(tied_manager),width=80)
+            st.text("{} & {}:".format(win_manager,tied_manager))        
+            st.text("{} {}".format(round(df.loc[0, column]),metric))
+        else:
+            st.image("pictures/{}.png".format(win_manager),width=160)
+            st.text("{}:".format(win_manager))        
+            st.text("{} {}".format(round(df.loc[0, column]),metric))
+
+    with tab2:
+        if df.loc[len(df)-1, column]==df.loc[len(df)-2, column]:
+            tied_manager= df.loc[len(df)-2, "manager_id"]
+            cols1,cols2 = st.columns(2)
+            with cols1:
+                st.image("pictures/{}.png".format(loss_manager),width=80)
+            with cols2:
+                st.image("pictures/{}.png".format(tied_manager),width=80)
+            st.text("{} & {}:".format(loss_manager,tied_manager)) 
+            st.text("{} {}".format(round(df.loc[len(df)-1, column]),metric))
+        else: 
+            st.image("pictures/{}.png".format(loss_manager),width=160)
+            st.text("{}:".format(loss_manager))
+            st.text("{} {}".format(round(df.loc[len(df)-1, column]),metric))
+    with tab3:
+        st.write(df)
+
 
 def points():
     # Basic text elements in streamlit
@@ -241,7 +282,7 @@ def points():
         st.write(data_gw)
     # endregion
 
-    st.info("Haaland was 221 of those points btw")
+    st.info("Haaland was 231 of those points btw")
     st.info("Anyways, some highs, some lows... but all our own choices, for the most part")
     st.info("Now let's look at the ones we didn't choose, let's look...")
     st.header("Outside the starting 11")
@@ -486,7 +527,6 @@ def players():
     st.subheader("Players Page")
     st.markdown("Some individual and group facts about players in the AKOYA league. Please choose a manager in the sidebar")
 
-    st.sidebar.markdown("Choose a manager")
     manager = st.sidebar.selectbox("Choose Manager", ("Ali","Ruslan","Sami","Yahya","Youssef","Santi","Shrey","Dani"))
 
     st.sidebar.image("pictures/{}.png".format(manager), caption=manager,width=200)
@@ -519,9 +559,10 @@ def players():
             show_pics(manager_df,i+5)
     #endregion
     
+    st.markdown("<hr>", unsafe_allow_html=True)
     st.header("UnLoyalty")
     st.markdown("The opposite of the last one")
-
+    
     #region Unloyalty?
     manager_df = data[data["manager"]==manager].sort_values("player_id",ascending=True).reset_index(drop=True).iloc[:10]
     cols = st.columns(5)
@@ -531,6 +572,7 @@ def players():
             show_pics(manager_df,i)
     #endregion
 
+    st.markdown("<hr>", unsafe_allow_html=True)
     st.header("Most Played")
     st.markdown("The players you've fielded the most")
 
@@ -557,6 +599,7 @@ def players():
     #endregion
 
     st.markdown(" ")
+    st.markdown("<hr>", unsafe_allow_html=True)
     st.info("We've seen the players that have been most in ONE team, now let's look at the players that have been in MOST teams")
 
     st.header("Most Teams")
@@ -573,7 +616,8 @@ def players():
             show_most_teams(most_teams,i+4,manager_df_full)
     #endregion
     
-    st.info("Now, the Ruslan award")
+    st.markdown("<hr>", unsafe_allow_html=True)
+    st.info("Now, Ruslan's time to shine")
 
     st.header("Club Mascot")
     st.markdown("A few stats based on how many players from a single club one has fielded")
@@ -642,10 +686,37 @@ def players():
         st.markdown("*Must have played at least 5 games")
     #endregion
 
-
 def stats():
+    data = pd.read_csv("findings/stats/stats.csv")
     st.subheader("Genneral Statistics Page")
-    st.markdown("Summary of general statistics relating to the AKOYA league")
+    st.markdown("Here we are to celebrate the best of the best in each category, giving them the award they deserve.")
+    st.markdown("Let's see the winners...")
+    cols = st.columns(4)
+
+    for i in range(4):
+        with cols[i]:
+            columns = ["goals_scored","assists","clean_sheets","goals_conceded"]
+            titles = ["Most Goals Scored","Most Assists Provided","Most Cleansheets","Most Goals Conceded"]
+            metrics = ["goals","assists","clean sheets","goals conceded"]
+
+            display_stats(data,columns[i],titles[i],metrics[i])
+            st.markdown("<hr>", unsafe_allow_html=True)
+
+            columns = ["penalties_missed","penalties_saved","red_cards","yellow_cards"]
+            titles = ["2016 Pessi Award","Not De Gea Award","Sergio Ramos Award","Sergio Ramos Lite Award"]
+            metrics = ["penalties missed","penalties saved","red cards","rellow cards"]
+
+            display_stats(data,columns[i],titles[i],metrics[i])
+            st.markdown("<hr>", unsafe_allow_html=True)
+
+            columns = ["own_goals","saves","bonus","dreamteam"]
+            titles = ["Maguire Award","The Wall Award","BPS Merchant","TOTW Merchant"]
+            metrics = ["own goals","saves","bonus points","TOTW players"]
+
+            display_stats(data,columns[i],titles[i],metrics[i])
+            st.markdown("<hr>", unsafe_allow_html=True)
+
+
 
 def transfers():
     st.subheader("Transfers Page")
