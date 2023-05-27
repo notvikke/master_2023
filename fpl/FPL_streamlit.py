@@ -15,22 +15,19 @@ def display_podium(title,df,column=1,value="pts"):
         st.write("")
         st.image("pictures/{}.png".format(df.loc[1, "manager"]))
         st.subheader("🥈") 
-        st.text("{}: {} {}".format(df.loc[1, "manager"], round(df.iloc[1, column]),value))
+        st.text("{}: {} {}".format(df.loc[1, "manager"], round(df.iloc[1][column]),value))
 
     with col2:
         st.image("pictures/{}.png".format(df.loc[0, "manager"])) 
         st.subheader("🥇")
-        st.text("{}: {} {}".format(
-            df.loc[0, "manager"], 
-            round(df.iloc[0, column]),
-            value))
+        st.text("{}: {} {}".format(df.loc[0, "manager"], round(df.iloc[0][column]),value))
 
     with col3:
         st.write("")
         st.write("")
         st.image("pictures/{}.png".format(df.loc[2, "manager"]))
         st.subheader("🥉") 
-        st.text("{}: {} {}".format(df.loc[2, "manager"], round(df.iloc[2, column]),value))
+        st.text("{}: {} {}".format(df.loc[2, "manager"], round(df.iloc[2][column]),value))
 
     with col4:
         st.write("")
@@ -42,24 +39,32 @@ def display_podium(title,df,column=1,value="pts"):
         st.write("")
         st.image("pictures/{}.png".format(df.loc[len(df)-1, "manager"]))
         st.subheader("💩",)
-        st.text("{}: {} {}".format(df.loc[len(df)-1, "manager"], round(df.iloc[len(df)-1, column]),value))
+        st.text("{}: {} {}".format(df.loc[len(df)-1, "manager"], round(df.iloc[len(df)-1][column]),value))
 
 def print_pic(data, num):
     st.image("https://resources.premierleague.com/premierleague/photos/players/110x140/p{}.png".format(data.loc[num,"photo"]))
 
-def show_pics(data,num, points=False):
+def show_player(data,num, points=False, metric="gameweeks"):
     print_pic(data,num)
-    if data.loc[num,"player_id"]==32:
+    if data.loc[num,"player_id"]==33:
         st.markdown("{} ✅".format(data.loc[num,"player_name"]))
     else:
         st.markdown("{}".format(data.loc[num,"player_name"]))
     
-    st.markdown("{} gameweeks".format(data.loc[num,"player_id"]))
+    if points=="manager":
+        if data.loc[num,"player_id"]<0:
+            st.warning("{} {}".format(data.loc[num,"player_id"],metric))
+        else:
+            st.success("{} {}".format(data.loc[num,"player_id"],metric))
+    else:
+        st.markdown("{} {}".format(data.loc[num,"player_id"],metric))
 
     if points=="total":
         st.success("{} points total".format(data.loc[num,"points"]))
     elif points=="average":
         st.success("{} points per game".format(round(data.loc[num,"points"]/data.loc[num,"player_id"],2)))
+    elif points=="manager":
+        st.markdown("By {}".format(data.loc[num,"manager"]))
 
 def show_most_teams(data, num, data2):
     print_pic(data,num)
@@ -119,25 +124,9 @@ def display_stats(df, column, titles, metric):
 
 
 def points():
-    # Basic text elements in streamlit
-    st.header("This is a header")
-    st.subheader("This is a subheader")
-    st.text("This is a text")
-    st.markdown("This is a **markdown** text")
-    st.code("# This is code\ndata = pd.DataFrame({'a':[1,2,3], 'b':[4,5,6]})")
-
-    # Status elements
-    st.success("This is a success")
-
-    st.warning("This is a warning")
-
     st.sidebar.markdown("Page Guide")
     st.sidebar.markdown("1. [Akoya FPL Award](#akoya-fpl-award)")
     st.sidebar.markdown("2. [Rankings per Position](#rankings-per-position)")
-    #st.sidebar.markdown("2.1. [Goalkeeper Rankings](#golakeepers)")
-    #st.sidebar.markdown("2.2. [Defender Rankings](#defenders)")
-    #st.sidebar.markdown("2.3. [Midfielder Rankings](#midfielders)")
-    #st.sidebar.markdown("2.4. [Forward Rankings](#forwards)")
     st.sidebar.markdown("3. [Outside the starting 11](#outside-the-starting-11)")
     st.sidebar.markdown("4. [Gameweek Winners and Losers](#gameweek-winners-and-losers)")
 
@@ -429,100 +418,6 @@ def points():
         st.write(data)
     # endregion
 
-    # region other
-    # get data to display
-    data = px.data.iris()
-    st.markdown("We also can include dynamic tables with `st.dataframe`")
-    st.dataframe(main_ranking.head())
-    st.markdown("And also static tables with `st.table`")
-    st.table(main_ranking.head())
-    st.markdown("And also metrics with `st.metric` combined with `st.columns`")
-    col1, col2, col3 = st.columns(3)
-    col1.metric("Temperature", "70 °F", "1.2 °F")
-    col2.metric("Wind", "9 mph", "-8%")
-    col3.metric("Humidity", "86%", "4%")
-
-    st.markdown("Including plotly plots with `st.plotly_chart`")
-    st.plotly_chart(
-        px.scatter(
-            data, x="sepal_width", y="sepal_length", color="species", template="none"
-        )
-    )
-
-    st.markdown("Including images with `st.image`")
-    st.image("https://media.giphy.com/media/zGnnFpOB1OjMQ/giphy.gif", caption="My image")
-
-    st.markdown("Including video with `st.video`")
-    st.video("https://youtu.be/5-tHimysW-A")
-
-    with st.container():
-        st.markdown(
-            "Including widgets with `st.button`, `st.checkbox`, `st.radio`, `st.selectbox`, `st.slider`, `st.text_input`, `st.text_area`, `st.date_input`, `st.time_input`"
-        )
-        st.button("This is a button")
-        st.checkbox("This is a checkbox")
-        st.radio("This is a radio", ("Option 1", "Option 2"))
-        st.selectbox("This is a selectbox", ("Option 1", "Option 2"))
-        st.slider("This is a slider", 1, 100)
-        st.text_input("This is a text input")
-        st.text_area("This is a text area")
-        st.date_input("This is a date input")
-        st.time_input("This is a time input")
-
-        st.markdown("Including progress bars with `st.progress`")
-        my_bar = st.progress(0)
-        for p in range(10):
-            my_bar.progress(p + 1)
-
-        st.markdown("Or a spinner with `st.spinner`")
-        with st.spinner("Wait for it..."):
-            time.sleep(1)
-        st.success("Done!")
-
-
-    st.markdown("Separating views in different tabs with `st.tabs`")
-    tab1, tab2 = st.tabs(["📈 Chart", "🗃 Data"])
-    data = np.random.randn(10, 1)
-
-    tab1.subheader("A tab with a chart")
-    tab1.line_chart(data)
-
-    tab2.subheader("A tab with the data")
-    tab2.write(data)
-
-    st.markdown("This is a form with `st.form`")
-    with st.form("my_form"):
-        st.write("Inside the form")
-        slider_val = st.slider("Form slider")
-        checkbox_val = st.checkbox("Form checkbox")
-
-        # Every form must have a submit button.
-        submitted = st.form_submit_button("Submit")
-        if submitted:
-            st.write("slider", slider_val, "checkbox", checkbox_val)
-
-    # Retrieve location data
-    st.markdown("This is a map with `st.map`")
-    df = pd.DataFrame(
-        np.random.randn(1000, 2) / [50, 50] + [37.76, -122.4], columns=["lat", "lon"]
-    )
-
-    st.map(df)
-
-
-    # Also, we can include those elements in the sidebar
-    st.sidebar.title("Including things also in a sidebar!")
-    st.sidebar.button("This is a sidebar button")
-    st.sidebar.checkbox("This is a sidebar checkbox")
-    st.sidebar.radio("This is a sidebar radio", ("Option 1", "Option 2"))
-    st.sidebar.selectbox("This is a sidebar selectbox", ("Option 1", "Option 2"))
-    st.sidebar.slider("This is a sidebar slider", 1, 100)
-    st.sidebar.text_input("This is a sidebar text input")
-    st.sidebar.text_area("This is a sidebar text area")
-    st.sidebar.date_input("This is a sidebar date input")
-    st.sidebar.time_input("This is a sidebar time input")
-    #endregion
-
 def players():
     st.subheader("Players Page")
     st.markdown("Some individual and group facts about players in the AKOYA league. Please choose a manager in the sidebar")
@@ -555,8 +450,8 @@ def players():
 
     for i in range(5):
         with cols[i]:
-            show_pics(manager_df,i)
-            show_pics(manager_df,i+5)
+            show_player(manager_df,i)
+            show_player(manager_df,i+5)
     #endregion
     
     st.markdown("<hr>", unsafe_allow_html=True)
@@ -569,7 +464,7 @@ def players():
 
     for i in range(5):
         with cols[i]:
-            show_pics(manager_df,i)
+            show_player(manager_df,i)
     #endregion
 
     st.markdown("<hr>", unsafe_allow_html=True)
@@ -586,15 +481,15 @@ def players():
         tab1_cols = st.columns(5)
         for i in range(5):
             with tab1_cols[i]:
-                show_pics(manager_df,i,"total")
-                show_pics(manager_df,i+5,"total")
+                show_player(manager_df,i,"total")
+                show_player(manager_df,i+5,"total")
                 
     with tab2:
         tab2_cols = st.columns(5)
         for i in range(5):
             with tab2_cols[i]:
-                show_pics(manager_df,i,"average")
-                show_pics(manager_df,i+5,"average")
+                show_player(manager_df,i,"average")
+                show_player(manager_df,i+5,"average")
 
     #endregion
 
@@ -716,11 +611,94 @@ def stats():
             display_stats(data,columns[i],titles[i],metrics[i])
             st.markdown("<hr>", unsafe_allow_html=True)
 
-
-
 def transfers():
+    manager = st.sidebar.selectbox("Choose Whose Trades to Show:", ("Everyone","Ali","Ruslan","Sami","Yahya","Youssef","Santi","Shrey","Dani"))
+    
+    if manager != "Everyone":
+        st.sidebar.image("pictures/{}.png".format(manager), caption=manager,width=200)
+
+    st.sidebar.markdown("Page Guide")
+    st.sidebar.markdown("1. [Total Transfers Ranking](#total-transfers-ranking)")
+    st.sidebar.markdown("2. [Most Transferred In](#most-transferred-in)")
+    st.sidebar.markdown("3. [Best & Worst Transfers](#best-and-worst-transfers)")
+
     st.subheader("Transfers Page")
     st.markdown("Quick view of the best and worst transactions in the AKOYA league")
+    
+    st.markdown("<hr>", unsafe_allow_html=True)
+
+    st.subheader("Total Transfers Ranking")
+    st.markdown("Brought to you weekly by Ali Ascioglu")
+
+    #region Transfer Ranking
+    data = pd.read_csv("findings/transfers/num_transfers.csv")
+    tab1, tab2 = st.tabs(["Total Transfers","Table"])
+    with tab1:
+        display_podium("Total Transfers",data,"transfer_id","transfers")
+    with tab2:
+        st.write(data)
+    #endregion
+
+    st.markdown("<hr>", unsafe_allow_html=True)
+    st.info("Next up the definition of a love hate relationship, let's look at...")
+
+    st.subheader("Most Transferred In")
+    st.markdown("The players you make sleep on the couch one night and come back to bed the next")
+
+    #region Transfer In
+    data = pd.read_csv("findings/transfers/most_in.csv")
+
+    tab1, tab2 = st.tabs(["Most Transferred","Table"])
+    with tab1:
+        if manager=="Everyone":
+            cols = st.columns(4)
+            for i in range(4):
+                with cols[i]:
+                    show_player(data,i,"manager","times transferred")
+                    show_player(data,i+4,"manager","times transferred")
+        else:
+            manager_df = data[data["manager"]==manager].reset_index(drop=True)
+            cols = st.columns(2)
+            for i in range(2):
+                with cols[i]:
+                    show_player(manager_df,i,"manager","times transferred")
+    with tab2:
+        st.write(data[["manager","player_name","player_id"]][:20])
+    #endregion
+    
+    st.markdown("<hr>", unsafe_allow_html=True)
+    st.info("Lastly, let's try to answer a question everyone has after getting a new player. Let's look at the...")
+
+    st.subheader("Best and Worst Transfers")
+    st.markdown("Just comparison of the highest scoring players in the first three weeks transferred in compared to the one traded out")
+
+    #region Best and Worst Transfers
+    data = pd.read_csv("findings/transfers/transfers_net_points.csv")
+    trades = st.selectbox("Which ones do you want to see", ("Best Trades","Worst Trades"))
+
+    if trades == "Worst Trades":
+        data = data.sort_values(by="net_points",ascending=True).reset_index()
+    else:
+        data = data.sort_values(by="net_points",ascending=False).reset_index()
+
+    tab1, tab2 = st.tabs(["Total Transfers","Table"])
+    with tab1:
+        if manager=="Everyone":
+            df = data.rename(columns={"net_points":"player_id"})
+            cols = st.columns(5)
+            for i in range(5):
+                with cols[i]:
+                    show_player(df,i,"manager","net points")
+                    show_player(df,i+5,"manager","net points")
+        else:
+            df = data[data["manager"]==manager].reset_index(drop=True).rename(columns={"net_points":"player_id"})
+            cols = st.columns(5)
+            for i in range(5):
+                with cols[i]:
+                    show_player(df,i,"manager","net points")
+    with tab2:
+        st.write(df[["gameweek","manager","player_id","player_name","team_in","player_name_out","team_out","in_points","out_points"]].rename(columns={"player_id":"net:points"}))
+    #endregion
 
 pages = {
     "Points": points,
