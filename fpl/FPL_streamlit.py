@@ -247,7 +247,7 @@ def points():
 
     # region Forward Rankings
     st.subheader("Forwards")
-    st.markdown("The most prestigious award. Specially the Best Gameweek section")
+    st.markdown("Just happy that Haaland didn't get in the podium for best gameweeks")
 
     data = pd.read_csv('findings/points/fwd_ranking.csv')
     data_gw = pd.read_csv('findings/points/gw_fwd_ranking.csv')
@@ -711,13 +711,12 @@ pages = {
 def main():
     st.title("AKOYA FPL Draft Wrapped")
     st.markdown("Let's look back at this season")
-    multiline_text = """\n
-    Please navigate this Akoya Wrapped with the sidebar.\n
-    You can choose between four types of insights:\n
-    'Points', 'Players', 'Stats', and 'Trades'"""
-    st.info(multiline_text)
-
+    st.subheader("Points to Total Average Points")
+    st.video("https://www.youtube.com/watch?v=E9WhmBp80f8")
+    st.markdown("See more in: https://public.flourish.studio/visualisation/13576709/")
     # Add sidebar navigation
+    st.sidebar.subheader("Navigation")
+    st.sidebar.info("Please use this sidebar for page navigation and to go to points of interest in each page")
     selection = st.sidebar.radio("Go to", list(pages.keys()))
 
     # Call the function based on selection

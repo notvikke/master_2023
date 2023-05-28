@@ -208,9 +208,8 @@
 323,34,Sami,0.0,Pedro Porro,441164,TOT,Chilwell,CHE,1.0,1.0,1.0
 324,34,Sami,0.0,Ferguson,487117,BHA,Iheanacho,LEI,0.0,0.0,
 329,35,Sami,0.0,Olise,443661,CRY,Eriksen,MUN,0.0,0.0,
-338,36,Sami,0.0,Tierney,192895,ARS,Cash,AVL,0.0,0.0,
 339,36,Sami,0.0,Lindelöf,184667,MUN,Young,AVL,0.0,0.0,
-58,12,Santi,0.0,Arrizabalaga,109745,CHE,Pickford,EVE,0.0,0.0,
+353,38,Sami,0.0,Malacia,222690,MUN,Tierney,ARS,0.0,0.0,
 145,20,Santi,0.0,Gakpo,243298,LIV,Kulusevski,TOT,0.0,0.0,
 146,20,Santi,0.0,Sancho,209243,MUN,Willock,NEW,0.0,0.0,0.0
 174,22,Santi,0.0,Watkins,178301,AVL,Martial,MUN,0.0,0.0,
@@ -234,6 +233,7 @@
 346,37,Santi,0.0,Pedro Porro,441164,TOT,Kelly,BOU,0.0,0.0,
 351,37,Santi,0.0,McNeil,433154,EVE,Murphy,NEW,0.0,0.0,
 352,37,Santi,0.0,Ward,55494,CRY,Veltman,BHA,0.0,0.0,
+354,38,Santi,0.0,Ortega,88248,MCI,Arrizabalaga,CHE,0.0,0.0,
 141,20,Shrey,0.0,Mahrez,103025,MCI,Saint-Maximin,NEW,0.0,0.0,
 172,22,Shrey,0.0,Son,85971,TOT,Partey,ARS,0.0,0.0,
 196,23,Shrey,0.0,Isak,219168,NEW,Ings,WHU,0.0,0.0,
@@ -277,6 +277,7 @@
 166,21,Sami,-1.0,Gibbs-White,222531,NFO,Benrahma,WHU,2.0,3.0,1.0
 260,28,Sami,-1.0,Zaha,82403,CRY,Sancho,MUN,3.0,4.0,2.0
 266,29,Sami,-1.0,Dalot,216051,MUN,Álex Moreno,AVL,7.0,8.0,1.0
+338,36,Sami,-1.0,Tierney,192895,ARS,Cash,AVL,2.0,3.0,2.0
 315,33,Santi,-1.0,Wilson,153682,FUL,Rodrigo,LEE,1.0,2.0,1.0
 332,35,Santi,-1.0,J.Ayew,80146,CRY,Harrison,LEE,1.0,2.0,1.0
 39,9,Ali,-2.0,Tielemans,166989,LEI,Eriksen,MUN,5.0,7.0,2.0
@@ -336,6 +337,7 @@
 257,28,Ali,-9.0,Daka,245419,LEI,Álvarez,MCI,6.0,15.0,3.0
 98,15,Ruslan,-9.0,Eriksen,80607,MUN,Tielemans,LEI,2.0,11.0,1.0
 169,21,Sami,-9.0,James,225796,CHE,Martínez,MUN,3.0,12.0,3.0
+58,12,Santi,-9.0,Arrizabalaga,109745,CHE,Pickford,EVE,11.0,20.0,26.0
 147,20,Santi,-9.0,Ferguson,487117,BHA,Watkins,AVL,11.0,20.0,8.0
 139,19,Ali,-10.0,Malacia,222690,MUN,Koulibaly,CHE,0.0,10.0,1.0
 107,16,Ruslan,-10.0,Isak,219168,NEW,Moore,BOU,0.0,10.0,6.0
