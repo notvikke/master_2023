@@ -2,8 +2,6 @@ import time
 import numpy as np
 import pandas as pd
 import streamlit as st
-import plotly.express as px
-import plotly.graph_objects as go
 
 # Podium function
 def display_podium(title,df,column=1,value="pts"):
@@ -135,21 +133,6 @@ def points():
     st.header("Akoya FPL Award")
     st.markdown("A little jacking off session to the ones that got the most points overall")
     main_ranking = pd.read_csv('findings/points/real_ranking.csv')
-
-    fig = go.Figure()
-
-    fig.add_trace(go.Bar(
-        x=main_ranking['manager'],
-        y=main_ranking["points"],
-        name='Final Standings'
-    ))
-
-    # Update the layout of the chart
-    fig.update_layout(
-        title='Final Standings',
-        xaxis_title='Managers',
-        yaxis_title='Points'
-    )
 
     tab1, tab2 = st.tabs(["Top 3", "Table"])
 
