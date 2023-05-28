@@ -133,6 +133,10 @@ def points():
     st.sidebar.markdown("4. [Gameweek Winners and Losers](#gameweek-winners-and-losers)")
 
     # region Final Standings
+    
+    st.subheader("Points to Total Average Points")
+    st.video("https://www.youtube.com/watch?v=E9WhmBp80f8")
+    st.markdown("See more in: https://public.flourish.studio/visualisation/13576709/")
 
     st.header("Akoya FPL Award")
     st.markdown("A little jacking off session to the ones that got the most points overall")
@@ -698,9 +702,7 @@ pages = {
 def main():
     st.title("AKOYA FPL Draft Wrapped")
     st.markdown("Let's look back at this season")
-    st.subheader("Points to Total Average Points")
-    st.video("https://www.youtube.com/watch?v=E9WhmBp80f8")
-    st.markdown("See more in: https://public.flourish.studio/visualisation/13576709/")
+
     # Add sidebar navigation
     st.sidebar.subheader("Navigation")
     st.sidebar.info("Please use this sidebar for page navigation and to go to points of interest in each page")
