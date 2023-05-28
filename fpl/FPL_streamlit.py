@@ -48,7 +48,7 @@ def print_pic(data, num):
 
 def show_player(data,num, points=False, metric="gameweeks"):
     print_pic(data,num)
-    if data.loc[num,"player_id"]==33:
+    if data.loc[num,"player_id"]==34:
         st.markdown("{} ✅".format(data.loc[num,"player_name"]))
     else:
         st.markdown("{}".format(data.loc[num,"player_name"]))
