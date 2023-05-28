@@ -15,19 +15,19 @@ def display_podium(title,df,column=1,value="pts"):
 
         # Print the list of files in the directory
         print("Files in directory:", os.listdir())
-        st.image("fpl/pictures/{}.png".format(df.loc[1, "manager"]))
+        st.image("fpl/pictures/{}.png".format(df.loc[1, "manager"].lower()))
         st.subheader("🥈") 
         st.text("{}: {} {}".format(df.loc[1, "manager"], round(df.iloc[1][column]),value))
 
     with col2:
-        st.image("fpl/pictures/{}.png".format(df.loc[0, "manager"])) 
+        st.image("fpl/pictures/{}.png".format(df.loc[0, "manager"].lower())) 
         st.subheader("🥇")
         st.text("{}: {} {}".format(df.loc[0, "manager"], round(df.iloc[0][column]),value))
 
     with col3:
         st.write("")
         st.write("")
-        st.image("fpl/pictures/{}.png".format(df.loc[2, "manager"]))
+        st.image("fpl/pictures/{}.png".format(df.loc[2, "manager"].lower()))
         st.subheader("🥉") 
         st.text("{}: {} {}".format(df.loc[2, "manager"], round(df.iloc[2][column]),value))
 
@@ -39,7 +39,7 @@ def display_podium(title,df,column=1,value="pts"):
         st.write("")
         st.write("")
         st.write("")
-        st.image("fpl/pictures/{}.png".format(df.loc[len(df)-1, "manager"]))
+        st.image("fpl/pictures/{}.png".format(df.loc[len(df)-1, "manager"].lower()))
         st.subheader("💩",)
         st.text("{}: {} {}".format(df.loc[len(df)-1, "manager"], round(df.iloc[len(df)-1][column]),value))
 
@@ -97,13 +97,13 @@ def display_stats(df, column, titles, metric):
             tied_manager= df.loc[1, "manager_id"]
             cols1,cols2 = st.columns(2)
             with cols1:
-                st.image("fpl/pictures/{}.png".format(win_manager),width=80)
+                st.image("fpl/pictures/{}.png".format(win_manager.lower()),width=80)
             with cols2:
-                st.image("fpl/pictures/{}.png".format(tied_manager),width=80)
+                st.image("fpl/pictures/{}.png".format(tied_manager.lower()),width=80)
             st.text("{} & {}:".format(win_manager,tied_manager))        
             st.text("{} {}".format(round(df.loc[0, column]),metric))
         else:
-            st.image("fpl/pictures/{}.png".format(win_manager),width=160)
+            st.image("fpl/pictures/{}.png".format(win_manager.lower()),width=160)
             st.text("{}:".format(win_manager))        
             st.text("{} {}".format(round(df.loc[0, column]),metric))
 
@@ -112,13 +112,13 @@ def display_stats(df, column, titles, metric):
             tied_manager= df.loc[len(df)-2, "manager_id"]
             cols1,cols2 = st.columns(2)
             with cols1:
-                st.image("fpl/pictures/{}.png".format(loss_manager),width=80)
+                st.image("fpl/pictures/{}.png".format(loss_manager.lower()),width=80)
             with cols2:
-                st.image("fpl/pictures/{}.png".format(tied_manager),width=80)
+                st.image("fpl/pictures/{}.png".format(tied_manager.lower()),width=80)
             st.text("{} & {}:".format(loss_manager,tied_manager)) 
             st.text("{} {}".format(round(df.loc[len(df)-1, column]),metric))
         else: 
-            st.image("fpl/pictures/{}.png".format(loss_manager),width=160)
+            st.image("fpl/pictures/{}.png".format(loss_manager.lower()),width=160)
             st.text("{}:".format(loss_manager))
             st.text("{} {}".format(round(df.loc[len(df)-1, column]),metric))
     with tab3:
@@ -411,7 +411,7 @@ def players():
 
     manager = st.sidebar.selectbox("Choose Manager", ("Ali","Ruslan","Sami","Yahya","Youssef","Santi","Shrey","Dani"))
 
-    st.sidebar.image("fpl/pictures/{}.png".format(manager), caption=manager,width=200)
+    st.sidebar.image("fpl/pictures/{}.png".format(manager.lower()), caption=manager,width=200)
 
     st.sidebar.markdown("Page Guide")
     st.sidebar.markdown("1. [Loyalty](#loyalty)")
@@ -602,7 +602,7 @@ def transfers():
     manager = st.sidebar.selectbox("Choose Whose Trades to Show:", ("Everyone","Ali","Ruslan","Sami","Yahya","Youssef","Santi","Shrey","Dani"))
     
     if manager != "Everyone":
-        st.sidebar.image("fpl/pictures/{}.png".format(manager), caption=manager,width=200)
+        st.sidebar.image("fpl/pictures/{}.png".format(manager.lower()), caption=manager,width=200)
 
     st.sidebar.markdown("Page Guide")
     st.sidebar.markdown("1. [Total Transfers Ranking](#total-transfers-ranking)")
