@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import streamlit as st
 import plotly.graph_objects as go
@@ -10,6 +11,10 @@ def display_podium(title,df,column=1,value="pts"):
     with col1:
         st.write("")
         st.write("")
+        print("Current working directory:", os.getcwd())
+
+        # Print the list of files in the directory
+        print("Files in directory:", os.listdir())
         st.image("fpl/pictures/{}.png".format(df.loc[1, "manager"]))
         st.subheader("🥈") 
         st.text("{}: {} {}".format(df.loc[1, "manager"], round(df.iloc[1][column]),value))
