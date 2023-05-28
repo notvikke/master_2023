@@ -10,19 +10,19 @@ def display_podium(title,df,column=1,value="pts"):
     with col1:
         st.write("")
         st.write("")
-        st.image("pictures/{}.png".format(df.loc[1, "manager"]))
+        st.image("fpl/pictures/{}.png".format(df.loc[1, "manager"]))
         st.subheader("🥈") 
         st.text("{}: {} {}".format(df.loc[1, "manager"], round(df.iloc[1][column]),value))
 
     with col2:
-        st.image("pictures/{}.png".format(df.loc[0, "manager"])) 
+        st.image("fpl/pictures/{}.png".format(df.loc[0, "manager"])) 
         st.subheader("🥇")
         st.text("{}: {} {}".format(df.loc[0, "manager"], round(df.iloc[0][column]),value))
 
     with col3:
         st.write("")
         st.write("")
-        st.image("pictures/{}.png".format(df.loc[2, "manager"]))
+        st.image("fpl/pictures/{}.png".format(df.loc[2, "manager"]))
         st.subheader("🥉") 
         st.text("{}: {} {}".format(df.loc[2, "manager"], round(df.iloc[2][column]),value))
 
@@ -34,7 +34,7 @@ def display_podium(title,df,column=1,value="pts"):
         st.write("")
         st.write("")
         st.write("")
-        st.image("pictures/{}.png".format(df.loc[len(df)-1, "manager"]))
+        st.image("fpl/pictures/{}.png".format(df.loc[len(df)-1, "manager"]))
         st.subheader("💩",)
         st.text("{}: {} {}".format(df.loc[len(df)-1, "manager"], round(df.iloc[len(df)-1][column]),value))
 
@@ -92,13 +92,13 @@ def display_stats(df, column, titles, metric):
             tied_manager= df.loc[1, "manager_id"]
             cols1,cols2 = st.columns(2)
             with cols1:
-                st.image("pictures/{}.png".format(win_manager),width=80)
+                st.image("fpl/pictures/{}.png".format(win_manager),width=80)
             with cols2:
-                st.image("pictures/{}.png".format(tied_manager),width=80)
+                st.image("fpl/pictures/{}.png".format(tied_manager),width=80)
             st.text("{} & {}:".format(win_manager,tied_manager))        
             st.text("{} {}".format(round(df.loc[0, column]),metric))
         else:
-            st.image("pictures/{}.png".format(win_manager),width=160)
+            st.image("fpl/pictures/{}.png".format(win_manager),width=160)
             st.text("{}:".format(win_manager))        
             st.text("{} {}".format(round(df.loc[0, column]),metric))
 
@@ -107,13 +107,13 @@ def display_stats(df, column, titles, metric):
             tied_manager= df.loc[len(df)-2, "manager_id"]
             cols1,cols2 = st.columns(2)
             with cols1:
-                st.image("pictures/{}.png".format(loss_manager),width=80)
+                st.image("fpl/pictures/{}.png".format(loss_manager),width=80)
             with cols2:
-                st.image("pictures/{}.png".format(tied_manager),width=80)
+                st.image("fpl/pictures/{}.png".format(tied_manager),width=80)
             st.text("{} & {}:".format(loss_manager,tied_manager)) 
             st.text("{} {}".format(round(df.loc[len(df)-1, column]),metric))
         else: 
-            st.image("pictures/{}.png".format(loss_manager),width=160)
+            st.image("fpl/pictures/{}.png".format(loss_manager),width=160)
             st.text("{}:".format(loss_manager))
             st.text("{} {}".format(round(df.loc[len(df)-1, column]),metric))
     with tab3:
@@ -131,7 +131,7 @@ def points():
 
     st.header("Akoya FPL Award")
     st.markdown("A little jacking off session to the ones that got the most points overall")
-    main_ranking = pd.read_csv('findings/points/real_ranking.csv')
+    main_ranking = pd.read_csv('fpl/findings/points/real_ranking.csv')
 
     tab1, tab2 = st.tabs(["Top 3", "Table"])
 
@@ -154,8 +154,8 @@ def points():
     st.subheader("Goalkeepers")
     st.markdown("A useless award for the most brain dead position in fpl. Pick a top 6 gk and inshallah.")
 
-    data = pd.read_csv('findings/points/gk_ranking.csv')
-    data_gw = pd.read_csv('findings/points/gw_gk_ranking.csv')
+    data = pd.read_csv('fpl/findings/points/gk_ranking.csv')
+    data_gw = pd.read_csv('fpl/findings/points/gw_gk_ranking.csv')
 
     tab1, tab2, tab3, tab4 = st.tabs(["Top 3", "Table", "Best Gameweek", "GW Table"])
 
@@ -180,8 +180,8 @@ def points():
     st.subheader("Defenders")
     st.markdown("A single goal vs Arsenal can mean 4 points for someone. But it also means Ruslan losing 16 cleansheet points")
 
-    data = pd.read_csv('findings/points/def_ranking.csv')
-    data_gw = pd.read_csv('findings/points/gw_def_ranking.csv')
+    data = pd.read_csv('fpl/findings/points/def_ranking.csv')
+    data_gw = pd.read_csv('fpl/findings/points/gw_def_ranking.csv')
 
     tab1, tab2, tab3, tab4 = st.tabs(["Top 3", "Table", "Best Gameweek", "GW Table"])
 
@@ -205,8 +205,8 @@ def points():
     # region Midfielder Rankings
     st.subheader("Midfielders")
     st.markdown("CDMs are the cucks of Fantasy, might as well put a disabled person instead")
-    data = pd.read_csv('findings/points/mid_ranking.csv')
-    data_gw = pd.read_csv('findings/points/gw_mid_ranking.csv')
+    data = pd.read_csv('fpl/findings/points/mid_ranking.csv')
+    data_gw = pd.read_csv('fpl/findings/points/gw_mid_ranking.csv')
 
     tab1, tab2, tab3, tab4 = st.tabs(["Top 3", "Table", "Best Gameweek", "GW Table"])
 
@@ -231,8 +231,8 @@ def points():
     st.subheader("Forwards")
     st.markdown("Just happy that Haaland didn't get in the podium for best gameweeks")
 
-    data = pd.read_csv('findings/points/fwd_ranking.csv')
-    data_gw = pd.read_csv('findings/points/gw_fwd_ranking.csv')
+    data = pd.read_csv('fpl/findings/points/fwd_ranking.csv')
+    data_gw = pd.read_csv('fpl/findings/points/gw_fwd_ranking.csv')
 
     tab1, tab2, tab3, tab4 = st.tabs(["Top 3", "Table", "Best Gameweek", "GW Table"])
 
@@ -261,7 +261,7 @@ def points():
     # region Bench FC
     st.subheader("Bench FC")
     st.markdown("Ranking of teams with most points in their bench")
-    data = pd.read_csv('findings/points/bench.csv')
+    data = pd.read_csv('fpl/findings/points/bench.csv')
 
     tab1, tab2 = st.tabs(["Top 3", "Table"])
 
@@ -278,7 +278,7 @@ def points():
     # region Optimised Bench
     st.subheader("Optimised Bench")
     st.markdown("Basically a 'What if...?' in which we look at how many points were left on the bench everyone except Yahya could have capitalised on")
-    data = pd.read_csv('findings/points/bench_best.csv')
+    data = pd.read_csv('fpl/findings/points/bench_best.csv')
 
     merged_df = pd.merge(data, main_ranking, on='manager')
     merged_df['Final Points'] = merged_df['points_x'] + merged_df['points_y']
@@ -335,7 +335,7 @@ def points():
     # region Podiums
     st.subheader("Podiums")
     st.markdown("Amount of times in the top 3 each gameweek")
-    data = pd.read_csv('findings/points/podiums.csv')
+    data = pd.read_csv('fpl/findings/points/podiums.csv')
 
     first = data[["manager","1st"]].sort_values("1st",ascending=False).reset_index(drop=True)
     second = data[["manager","2nd"]].sort_values("2nd",ascending=False).reset_index(drop=True)
@@ -369,7 +369,7 @@ def points():
     # region Tottenham
     st.subheader("Tottenham Award")
     st.markdown("A tribute to the chickens, a ranking of the longest streaks without winning a podium in the league")
-    data = pd.read_csv('findings/points/tottenham.csv')
+    data = pd.read_csv('fpl/findings/points/tottenham.csv')
 
     tab1, tab2 = st.tabs(["Top 3", "Table"])
 
@@ -386,7 +386,7 @@ def points():
     # region Last Place
     st.subheader("Last Places")
     st.markdown("Pretty self explanatory... a ranking of Last Place gameweek Finishes")
-    data = pd.read_csv('findings/points/last_df.csv')
+    data = pd.read_csv('fpl/findings/points/last_df.csv')
 
     tab1, tab2 = st.tabs(["Top 3", "Table"])
 
@@ -406,7 +406,7 @@ def players():
 
     manager = st.sidebar.selectbox("Choose Manager", ("Ali","Ruslan","Sami","Yahya","Youssef","Santi","Shrey","Dani"))
 
-    st.sidebar.image("pictures/{}.png".format(manager), caption=manager,width=200)
+    st.sidebar.image("fpl/pictures/{}.png".format(manager), caption=manager,width=200)
 
     st.sidebar.markdown("Page Guide")
     st.sidebar.markdown("1. [Loyalty](#loyalty)")
@@ -422,10 +422,10 @@ def players():
     st.header("Loyalty")
     st.markdown("The players you've owned the longest")
 
-    real_ranking = pd.read_csv("findings/points/real_ranking.csv")
+    real_ranking = pd.read_csv("fpl/findings/points/real_ranking.csv")
 
     #region Loyalty
-    data = pd.read_csv('findings/players/loyalty.csv')
+    data = pd.read_csv('fpl/findings/players/loyalty.csv')
 
     manager_df = data[data["manager"]==manager].sort_values("player_id",ascending=False).reset_index(drop=True).iloc[:10]
     cols = st.columns(5)
@@ -454,7 +454,7 @@ def players():
     st.markdown("The players you've fielded the most")
 
     #region Most Played
-    data = pd.read_csv('findings/players/most_played.csv')
+    data = pd.read_csv('fpl/findings/players/most_played.csv')
     manager_df_full = data[data["manager"]==manager].reset_index(drop=True).sort_values("player_id",ascending=False)
     manager_df = manager_df_full[:11]
     tab1, tab2 = st.tabs(["Points Total","Points per Game"])
@@ -483,7 +483,7 @@ def players():
     st.markdown("What I just said")
 
     #region Most Teams
-    most_teams = pd.read_csv('findings/players/most_teams.csv')[:8]
+    most_teams = pd.read_csv('fpl/findings/players/most_teams.csv')[:8]
 
     cols = st.columns(4)
 
@@ -500,7 +500,7 @@ def players():
     st.markdown("A few stats based on how many players from a single club one has fielded")
 
     #region Club Mascot
-    mascot = pd.read_csv('findings/players/club_mascot.csv')
+    mascot = pd.read_csv('fpl/findings/players/club_mascot.csv')
     fielded = mascot[mascot["manager"]==manager].sort_values("fielded",ascending=False).reset_index(drop=True)
     ppg = mascot[(mascot["manager"]==manager)&(mascot["fielded"]>15)].sort_values("ppg",ascending=False).reset_index(drop=True)
 
@@ -512,7 +512,7 @@ def players():
             with tab1_cols[i]:
                 row = fielded.loc[i]
                 percentage = round(row["points"]/int(real_ranking[real_ranking["manager"]==manager]["points"].values[0]),2)
-                st.image("team_logos/{}.png".format(row["team"]))
+                st.image("fpl/team_logos/{}.png".format(row["team"]))
                 st.markdown("Fielded {} players {} times".format(row["team"],row["fielded"]))
                 st.markdown("Scored {} total points".format(row["points"]))
                 st.success("{}% of total points".format(percentage*100))
@@ -523,7 +523,7 @@ def players():
             with tab2_cols[i]:
                 row = ppg.loc[i]
                 percentage = round(row["points"]/int(real_ranking[real_ranking["manager"]==manager]["points"].values[0]),2)
-                st.image("team_logos/{}.png".format(row["team"]))
+                st.image("fpl/team_logos/{}.png".format(row["team"]))
                 st.markdown("Fielded {} players {} times".format(row["team"],row["fielded"]))
                 st.markdown("Scored {} total points".format(row["ppg"]))
                 st.success("{}% of total points".format(percentage*100))
@@ -532,7 +532,7 @@ def players():
     st.header("Star Players")
 
     #region Star Players
-    data = pd.read_csv('findings/players/most_played.csv')
+    data = pd.read_csv('fpl/findings/players/most_played.csv')
     total_points = data[data["manager"]==manager].sort_values("points",ascending=False).reset_index(drop=True)[:3]
     ppg = data[(data["manager"]==manager)&(data["player_id"]>5)].sort_values("ppg",ascending=False).reset_index(drop=True)[:3]
 
@@ -564,7 +564,7 @@ def players():
     #endregion
 
 def stats():
-    data = pd.read_csv("findings/stats/stats.csv")
+    data = pd.read_csv("fpl/findings/stats/stats.csv")
     st.subheader("Genneral Statistics Page")
     st.markdown("Here we are to celebrate the best of the best in each category, giving them the award they deserve.")
     st.markdown("Let's see the winners...")
@@ -597,7 +597,7 @@ def transfers():
     manager = st.sidebar.selectbox("Choose Whose Trades to Show:", ("Everyone","Ali","Ruslan","Sami","Yahya","Youssef","Santi","Shrey","Dani"))
     
     if manager != "Everyone":
-        st.sidebar.image("pictures/{}.png".format(manager), caption=manager,width=200)
+        st.sidebar.image("fpl/pictures/{}.png".format(manager), caption=manager,width=200)
 
     st.sidebar.markdown("Page Guide")
     st.sidebar.markdown("1. [Total Transfers Ranking](#total-transfers-ranking)")
@@ -613,7 +613,7 @@ def transfers():
     st.markdown("Brought to you weekly by Ali Ascioglu")
 
     #region Transfer Ranking
-    data = pd.read_csv("findings/transfers/num_transfers.csv")
+    data = pd.read_csv("fpl/findings/transfers/num_transfers.csv")
     tab1, tab2 = st.tabs(["Total Transfers","Table"])
     with tab1:
         display_podium("Total Transfers",data,"transfer_id","transfers")
@@ -628,7 +628,7 @@ def transfers():
     st.markdown("The players you make sleep on the couch one night and come back to bed the next")
 
     #region Transfer In
-    data = pd.read_csv("findings/transfers/most_in.csv")
+    data = pd.read_csv("fpl/findings/transfers/most_in.csv")
 
     tab1, tab2 = st.tabs(["Most Transferred","Table"])
     with tab1:
@@ -655,7 +655,7 @@ def transfers():
     st.markdown("Just comparison of the highest scoring players in the first three weeks transferred in compared to the one traded out")
 
     #region Best and Worst Transfers
-    data = pd.read_csv("findings/transfers/transfers_net_points.csv")
+    data = pd.read_csv("fpl/findings/transfers/transfers_net_points.csv")
     trades = st.selectbox("Which ones do you want to see", ("Best Trades","Worst Trades"))
 
     if trades == "Worst Trades":
