@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Character Frequencies</title>
+</head>
+<body>
+    <h1>Character Frequencies</h1>
+    <ul>
+        {% for character, count in characters %}
+            <li>{{ character }}: {{ count }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
