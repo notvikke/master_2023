@@ -20,7 +20,7 @@ install_spacy_model()
 try:
     doc = joblib.load('processed_data.joblib')
 except FileNotFoundError:
-    with open('master_2023/NLP/Spacy/brennu-njals_saga_en.txt', 'r', encoding='utf-8') as file:
+    with open('NLP/Spacy/brennu-njals_saga_en.txt', 'r', encoding='utf-8') as file:
         book_text = file.read()
 
     nlp = spacy.load("en_core_web_sm")
