@@ -2,3 +2,4 @@ plotly==5.14.1
 spacy==3.5.3
 networkx==3.0
 matplotlib==3.7.1
+joblib==1.2.0
