@@ -5,7 +5,16 @@ import matplotlib.pyplot as plt
 from collections import Counter
 import joblib
 
-nlp = spacy.load('en_core_web_sm')
+def install_spacy_model():
+    try:
+        nlp = spacy.load("en_core_web_sm")
+    except OSError:
+        # Model not found, download and install
+        from spacy.cli import download
+        download("en_core_web_sm")
+        spacy.prefer_gpu()
+
+install_spacy_model()
 
 # Check if processed data is cached, otherwise process the data
 try:
