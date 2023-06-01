@@ -49,7 +49,9 @@ def main():
     # Streamlit app
     st.title("Character Relations Network Graph")
 
-    chosen_node = st.selectbox("Choose Character: ", list(G.nodes))
+    chosen_node = st.selectbox("Choose or type a character's name: ", list(G.nodes))
+
+    st.markdown("After choosing, please be patient, it will take a minute or so...")
 
     subgraph_nodes = set(nx.single_source_shortest_path_length(G, chosen_node, cutoff=1))
     subgraph = G.subgraph(subgraph_nodes)
@@ -65,7 +67,7 @@ def main():
     # Define the widths of the edges based on the normalized weights
     edge_widths = [1 + 3 * weight for weight in edge_weights_normalized]
 
-    pos = nx.circular_layout(subgraph)  # Adjust layout algorithm as needed
+    pos = nx.circular_layout(subgraph) 
 
     plt.figure(figsize=(12, 8))
     nx.draw_networkx(subgraph, pos, with_labels=True, node_size=500, font_size=10, width=edge_widths)
