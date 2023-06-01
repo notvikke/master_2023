@@ -1,2 +1,2 @@
 plotly==5.14.1
-spacy==3.4
+spacy==3.4.0
