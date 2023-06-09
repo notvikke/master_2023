@@ -1,0 +1,458 @@
+[33mcommit 8f177455936519d3e9d60f9a104800a9e2bbcf0e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Fri Jun 9 13:02:08 2023 +0200
+
+    Configure Git LFS for global.csv
+
+[33mcommit 463e661563ce01a793f766a17325f13b53fea4f2[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Fri Jun 9 12:49:13 2023 +0200
+
+    defects and global csv
+
+[33mcommit fc5ca2dd1e42238a42b110c7d9ecc31688327dcc[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Fri Jun 9 11:55:38 2023 +0200
+
+    dealing with duplicates
+
+[33mcommit b62d41c534a2424862a921e6cfc5a5ffad0698d3[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Fri Jun 9 11:40:40 2023 +0200
+
+    cleaning data
+
+[33mcommit b8ba1d9315c21d8aab991b030a0d7302c0e02caf[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Fri Jun 9 11:32:03 2023 +0200
+
+    please work
+
+[33mcommit 8c91aa01866f16a59412ee78e49a7c20bc044c07[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Tue Jun 6 15:03:37 2023 +0200
+
+    merged datasets per P0_
+
+[33mcommit 7ea96a66b7372bb6fa88290598f9b851e279c76f[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Mon Jun 5 17:24:34 2023 +0200
+
+    merging datasets
+
+[33mcommit ebefba0c3c3192c4fa08a97d8e54f48e4c7c3769[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Mon Jun 5 16:58:28 2023 +0200
+
+    cleaned CSVs
+
+[33mcommit 15837b9d7698ee9662063122f8be552f4a8cc501[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Mon Jun 5 15:34:27 2023 +0200
+
+    Impact project initial commit
+
+[33mcommit 87561533a9a3caf2453b8c7449ccb00a6f198578[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu Jun 1 22:24:10 2023 +0200
+
+    try no. 20345
+
+[33mcommit b818c2c189591349b52a6a2c61d5dd62022efa4f[m
+Merge: 42f4b28 49c2609
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu Jun 1 22:20:26 2023 +0200
+
+    Merge branch 'master' of https://github.com/TheSantiagoSuarez/master_2023
+
+[33mcommit 42f4b282ff5d5f276a4c98c3e145fe407d05e136[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu Jun 1 22:20:14 2023 +0200
+
+    file path
+
+[33mcommit 49c26096971308e367daebbf72b995d857780770[m
+Author: Santiago Suarez <58000328+TheSantiagoSuarez@users.noreply.github.com>
+Date:   Thu Jun 1 22:09:59 2023 +0200
+
+    Update requirements.txt
+
+[33mcommit 6fc09ff69886e16c7d75d69c5f6650ab2e72c302[m
+Merge: 0f4d406 528b15c
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu Jun 1 22:09:44 2023 +0200
+
+    Merge branch 'master' of https://github.com/TheSantiagoSuarez/master_2023
+
+[33mcommit 0f4d4067bbd25cf007d2602ce6f88f75b8d2c67c[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu Jun 1 22:09:31 2023 +0200
+
+    automatic english spacy download
+
+[33mcommit 528b15c65d6e4dd4847df783c51398f75d91d436[m
+Author: Santiago Suarez <58000328+TheSantiagoSuarez@users.noreply.github.com>
+Date:   Thu Jun 1 22:03:18 2023 +0200
+
+    Update requirements.txt
+
+[33mcommit e9eb07c80ba95fa33b6f9a722022d665df4ed70f[m
+Author: Santiago Suarez <58000328+TheSantiagoSuarez@users.noreply.github.com>
+Date:   Thu Jun 1 22:01:41 2023 +0200
+
+    Update requirements.txt
+
+[33mcommit c56ca42343eda8e52928ac6be77e08b80379da46[m
+Author: Santiago Suarez <58000328+TheSantiagoSuarez@users.noreply.github.com>
+Date:   Thu Jun 1 21:59:40 2023 +0200
+
+    Update requirements.txt
+
+[33mcommit 1177b24961d9f63a74db3ff774a32ddda2e23bc9[m
+Author: Santiago Suarez <58000328+TheSantiagoSuarez@users.noreply.github.com>
+Date:   Thu Jun 1 21:57:55 2023 +0200
+
+    Update requirements.txt
+
+[33mcommit 44b9fff80d14bddab14f42b9f46da864bd6f66c7[m
+Author: Santiago Suarez <58000328+TheSantiagoSuarez@users.noreply.github.com>
+Date:   Thu Jun 1 21:56:23 2023 +0200
+
+    Update requirements.txt
+
+[33mcommit 64de6ed0e001a6db1291d810213335d44901dcde[m
+Author: Santiago Suarez <58000328+TheSantiagoSuarez@users.noreply.github.com>
+Date:   Thu Jun 1 21:52:39 2023 +0200
+
+    Update requirements.txt
+
+[33mcommit 70cbb812659aaa9bb93401e92a48695bfd3b2ac6[m
+Author: Santiago Suarez <58000328+TheSantiagoSuarez@users.noreply.github.com>
+Date:   Thu Jun 1 21:50:11 2023 +0200
+
+    Create requirements.txt
+
+[33mcommit e97dd957c953b55044c549798ac3a7b475ad4b74[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu Jun 1 21:45:52 2023 +0200
+
+    streamlit first draft
+
+[33mcommit 9c8750e1897b29866343e13c17af7a425d51c8a7[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu Jun 1 21:45:34 2023 +0200
+
+    streamlit first draft
+
+[33mcommit 9b80b6df9f03abdabacc7da6f704e8698b118a0c[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu Jun 1 21:40:09 2023 +0200
+
+    jesus christ so much bs
+
+[33mcommit 22de8f5f51ed5c280151c07dcc3c653ab745ee19[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu Jun 1 12:19:11 2023 +0200
+
+    input name commit
+
+[33mcommit 3abc171dd7480990216eb5dd4fc7a524686d0e98[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu Jun 1 12:10:21 2023 +0200
+
+    try 2
+
+[33mcommit 7f1b7cdf8491304cedf02263a79e14679ad2024f[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu Jun 1 12:09:58 2023 +0200
+
+    playing around with spacy
+
+[33mcommit 26e6c5ec6b54b9301a7e9d13363d69d19c45d6e3[m
+Merge: b361de8 1b0a497
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Wed May 31 15:40:12 2023 +0200
+
+    Merge branch 'master' of https://github.com/TheSantiagoSuarez/master_2023
+
+[33mcommit b361de80d59efb3590b78944fdf41e2976cc481a[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Wed May 31 15:39:54 2023 +0200
+
+    english nlp spacy commit
+
+[33mcommit 1b0a497770117c2c0087094ea42ca789e178add0[m
+Author: Santiago Suarez <58000328+TheSantiagoSuarez@users.noreply.github.com>
+Date:   Tue May 30 17:58:53 2023 +0200
+
+    Create READ_ME.txt
+
+[33mcommit aa1612921f1e9605be6aec004b5742c9b4267f19[m
+Author: Santiago Suarez <58000328+TheSantiagoSuarez@users.noreply.github.com>
+Date:   Tue May 30 17:50:57 2023 +0200
+
+    Delete something.py
+
+[33mcommit f41109879ada9c9fc337053ea5dbda06faea6769[m
+Author: Santiago Suarez <58000328+TheSantiagoSuarez@users.noreply.github.com>
+Date:   Tue May 30 17:50:45 2023 +0200
+
+    Delete fpl/raw_csv directory
+
+[33mcommit 4dd0f96aa0f5784f6bcf394e5c168b1307159d98[m
+Author: Santiago Suarez <58000328+TheSantiagoSuarez@users.noreply.github.com>
+Date:   Tue May 30 17:49:56 2023 +0200
+
+    Delete 5_clean.csv
+
+[33mcommit fee1a77a01321716743236d4bc831f80b6de3fd4[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Mon May 29 00:36:41 2023 +0200
+
+    last changes
+
+[33mcommit 94a8f957a316343b569d497a53533b56c3a5d8f3[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sun May 28 23:55:38 2023 +0200
+
+    final fixes
+
+[33mcommit 64049d6ea100b570f102322d00b23855bb820711[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sun May 28 23:53:43 2023 +0200
+
+    debugging
+
+[33mcommit 25d630ddbf24e7b216cd4e7331f238b17c2d3e8a[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sun May 28 23:36:24 2023 +0200
+
+    more debugging
+
+[33mcommit 42e60345670de67aecad633c90594e36d5d6bcd5[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sun May 28 23:27:35 2023 +0200
+
+    debug directory
+
+[33mcommit def417208a88ba5af7e3257c4df554a61994e4ec[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sun May 28 23:15:00 2023 +0200
+
+    debug plotly file
+
+[33mcommit a1d284a75ce3e9d71b8edf4902eebf4b7da3b832[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sun May 28 23:07:26 2023 +0200
+
+    final commit
+
+[33mcommit eba915b1abda8547cb496a6565634131dcb2eba3[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sun May 28 23:02:43 2023 +0200
+
+    final commit
+
+[33mcommit b27e2dd536c8c0085a2c93d61463eb3d7747ec85[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sun May 28 22:59:39 2023 +0200
+
+    final commit
+
+[33mcommit af07849c50c448a4369f493f314660a841a5fff3[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sun May 28 22:47:38 2023 +0200
+
+    final commit
+
+[33mcommit ca0d63f99b9de21267f59841a9e12b617cb674ce[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sun May 28 01:14:03 2023 +0200
+
+    transfers page finished
+
+[33mcommit 72a3545ba8a72cc9e494bafebb1874280388e10a[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sat May 27 22:30:09 2023 +0200
+
+    finished stats page & manager pictures
+
+[33mcommit 81e1d539200da537a23e0e2710f025c11674dda4[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sat May 27 12:28:21 2023 +0200
+
+    finished players page
+
+[33mcommit b9d27f689248903de90ca8c3fc2611d3fb417e6d[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sat May 27 00:56:22 2023 +0200
+
+    gameweek 37 update + team pictures
+
+[33mcommit 083f9e7fb129a38e5339bb98ba42c930190962fe[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Fri May 26 11:32:55 2023 +0200
+
+    streamlit player page
+
+[33mcommit 2e0e9a2d4e11a1666385403692a5115dfa49e6e7[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu May 25 11:28:13 2023 +0200
+
+    NLP Group Project
+
+[33mcommit 033f1a3bde1c6836e7aee2453bf02c06cccaca67[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu May 25 11:16:22 2023 +0200
+
+    streamlit players page
+
+[33mcommit fd4c3f5003ec9b59fc6f895ad96773ff6effa42c[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu May 25 10:02:55 2023 +0200
+
+    update intake with player photos
+
+[33mcommit d1bff0d1b10022c1b5451714e4c86533bd65e9d9[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu May 25 10:02:26 2023 +0200
+
+    streamlit 3rd commit
+
+[33mcommit 000f6d8196c6082b6d7e1565de3c0b9fddbecc20[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Wed May 24 16:42:53 2023 +0200
+
+    Streamlit 2nd commit
+
+[33mcommit abe5d680855cdbb0514ffffc2abfa8cce81adeee[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Mon May 22 19:02:23 2023 +0200
+
+    streamlit and findings csv commit
+
+[33mcommit c63fad2b33193bf6877607cc912018b5df58685e[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sun May 21 16:03:48 2023 +0200
+
+    FPL Trades commit
+
+[33mcommit 50fef660c4faa779766460234ea298ab763e51d0[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu May 18 12:14:12 2023 +0200
+
+    FPL Project 1st commit
+
+[33mcommit 210fa3529de9948c95fe9dfc4c342e8896b56a74[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu May 18 12:13:47 2023 +0200
+
+    FPL Project 1st commit
+
+[33mcommit 912d6ffa92abd418ebc12590f35a1bc9e60dd921[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Mon Mar 20 19:54:30 2023 +0100
+
+    Operations commit
+
+[33mcommit 385affa11be61d6df145dc74f89739059d0c2593[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Mon Mar 20 14:15:08 2023 +0100
+
+    streamlit HW
+
+[33mcommit 37159cb85034b30baedf142bc0d3b455a3b0abf7[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Wed Mar 15 22:18:34 2023 +0100
+
+    streamlit homework
+
+[33mcommit 31f8b35950bd8c3f8690bb7af06ec2a1520cbccb[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Wed Mar 15 10:55:58 2023 +0100
+
+    Streamlit Homework commit
+
+[33mcommit 7dc997d41bc928bc59ca061d2b947290e70b4210[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sat Mar 11 20:06:33 2023 +0100
+
+    Data Visualisation Group Project
+
+[33mcommit 399bee76df92a33d4be58b22dcd0e083db5d159e[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu Mar 9 18:51:27 2023 +0100
+
+    Session17
+
+[33mcommit eb83d8b1ef7d1b46349155b7d0ecfd2c1ff4e22b[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Thu Mar 9 18:51:11 2023 +0100
+
+    Session17
+
+[33mcommit bedd89fda9ebff31bd2289ee6e71958f85ddeaa9[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Wed Mar 8 13:48:19 2023 +0100
+
+    Session16
+
+[33mcommit 06b473807ddd1aec995a87dfb0d4eb1fa637014a[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Wed Mar 8 11:40:58 2023 +0100
+
+    Individual_final_commit
+
+[33mcommit db4476c9f2ed30741d650af6af137ad512cc2ed7[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Wed Mar 8 11:35:12 2023 +0100
+
+    Session16_commit
+
+[33mcommit 1a71121b37cdb1ff8f174692026523a58f6eb798[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Tue Mar 7 21:40:24 2023 +0100
+
+    Individual_final_commit
+
+[33mcommit d129cefdc02e71fcdc463bff5e38f9ae1edeb20e[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Tue Mar 7 11:09:33 2023 +0100
+
+    Individual_Part_B
+
+[33mcommit b10fad82ebf9ed42dd344bfca2ff0d0d335bc599[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Mon Mar 6 20:29:53 2023 +0100
+
+    individual_part_A
+
+[33mcommit 79e32fd23d2c41c750a9e04397e4a479d6bb01e6[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Mon Mar 6 19:31:15 2023 +0100
+
+    Individual_assignment_commit
+
+[33mcommit 6a57bf2628288ce8dc802a4d86e00da733d5335a[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Mon Mar 6 19:28:29 2023 +0100
+
+    Session9_issues
+
+[33mcommit 6aaa7b4fca45f3b31dc18de336dfb86f76f44e08[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Sat Mar 4 17:46:24 2023 +0100
+
+    Session7
+
+[33mcommit 26df609ea0e6b453d8cb071796f5aa8a8827ac6b[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Fri Mar 3 16:47:00 2023 +0100
+
+    Session7_work
+
+[33mcommit 61aaef5a7050d3062b4389c582cdb8538eb8b1c9[m
+Author: TheSantiagoSuarez <santiagosuarezofficial@gmail.com>
+Date:   Fri Mar 3 13:59:30 2023 +0100
+
+    initial_commit
