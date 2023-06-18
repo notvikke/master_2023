@@ -1,1 +1,0 @@
-All the files from clean_csv, now merged and further cleaned in the case of Defects.csv, waiting for all the NaN values to be filled

@@ -1,1 +1,0 @@
-Folder with all 280+ csv files with clean datetime values
