@@ -1,0 +1,14 @@
+[server]
+# Configure the port number
+port = 80
+
+[theme]
+primaryColor="#6de9ed"
+backgroundColor="#f4fafb"
+secondaryBackgroundColor="#337375"
+textColor="#213031"
+
+
+[logger]
+# Configure the Streamlit logging level
+level = "info"
